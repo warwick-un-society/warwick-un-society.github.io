@@ -1,0 +1,17 @@
+---
+layout: null
+---
+{
+  {% for page in site.pages %}
+
+    "{{ page.url | slugify }}": {
+      "title": "{{ page.title | strip_html | xml_escape }}",
+      "content"	 : "{{page.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+      "url": " {{ page.url | xml_escape }}",
+      "author": "{{ page.author | xml_escape }}",
+      "categories": "{% for category in page.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
+      "description": "{{ page.description | xml_escape }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+}
