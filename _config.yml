@@ -1,13 +1,13 @@
-# Site settings
-title: ReiMUN
-email:
-description: The website of Reigate Grammar School's Model United Nations conference, ReiMUN.
-baseurl: ""
-url: "reimun.github.io"
-
-# Build settings
-markdown: kramdown
-
-# Allow GFM to render
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+name : Foundation5/github pages/Jykill starter
+brand : My Project
+description : This is the description of my project
+keyword : 
+url : http://daigofuji.github.io/jekyll-foundation-6-starter/
+email : daigo@daigofujiwara.com
+twitter : DaigoFuji
+github : DaigoFuji
+author : Daigo Fujiwara
+year : 2016
+markdown : kramdown
+exclude :
+  - node_modules

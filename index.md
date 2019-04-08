@@ -1,9 +1,6 @@
 ---
-layout: index
-title: Welcome to ReiMUN
-permalink: /index.html/
----
-<img src="/media/blacklogo.svg" alt="ReiMUN Logo" class="indexlogo" onerror="this.src='/media/blacklogo.png'">
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-<h1>Welcome to ReiMUN</h1>
-Reigate Grammar School’s Model United Nations conference<br><br>
+layout: home
+---
