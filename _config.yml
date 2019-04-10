@@ -1,13 +1,17 @@
 name : Foundation5/github pages/Jykill starter
-brand : My Project
-description : This is the description of my project
-keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-6-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
-year : 2016
+brand : Warwick UN Society
+description : The website for Warwick UN Society
+keyword :
+url :
+email :
+twitter : WarwickMUN
+instagram: WarwickMUN
+github : AGilchrist0
+author : Aaron Gilchrist
+year : 2019
 markdown : kramdown
 exclude :
   - node_modules
+sass:
+    sass_dir: /css
+    style: compressed
