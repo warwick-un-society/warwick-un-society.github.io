@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MUN
-permalink: /mun
+permalink: /mun/
 description:
 ---
 
