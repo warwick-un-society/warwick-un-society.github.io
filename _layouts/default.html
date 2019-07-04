@@ -1,90 +1,25 @@
 <!doctype html>
-<html class="no-js">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - {{ site.name }}</title>
-    <meta name="description" content="{{ page.title }} - {{ site.name }}" />
-    <meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />
-    <!-- Google fonts https://www.google.com/fonts
-    ================================================== -->
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700,800|Raleway:400,200,700" rel="stylesheet" type="text/css">
-    <!-- Fount Awesome -->
-    <link href="https://use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet">
-
-    <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" href="css/main.css">
-
-    <!-- favicon
-    ================================================== -->
-    <link rel="shortcut icon" href="img/favicon.png">
-
-    <!-- Open Graph: https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content/
-    Twitter: https://dev.twitter.com/docs/cards/types/summary-card
-    ============================== -->
-    <meta property="og:title" content="{{ page.title }}"/>
-    <meta property="og:site_name" content="{{ site.name }}"/>
-    <meta property="og:url" content="{{ site.url }}"/>
-    <meta property="og:description" content="{{ page.description }}"/>
-    <meta property="og:image" content="{{ page.imageurl }}"/>
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@{{ site.twitter }}">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.description }}">
-    <meta name="twitter:image" content="{{ page.imageurl }}">
-
-  </head>
+<html class="no-js" lang="en" dir="ltr">
+  {% include head.html %}
   <body>
-
-    <div class="off-canvas position-right" data-off-canvas id="offCanvas">
-      <div class="vertical menu mtl">
-        {% include nav.html %}
-      </div>
-      <button class="close-button" aria-label="Close menu" type="button" data-close>
-        <i class="fas fa-times fa-xs"></i>
-      </button>
-    </div><!-- end .off-canvas -->
-
-    <div class="off-canvas-content" data-off-canvas-content>
-
-          {% include nav.html %}
-
-      <div class="grid-container">
-
+    {% include nav.html %}
+    <br>
+    <div class= "grid-x content-wrapper">
+      <div class="cell auto"></div>
+      <div class="cell small-11 medium-8 large-7 columns">
+        <h1>{{ page.title }}</h1>
         {{ content }}
-
-        <footer class="site-footer grid-x grid-padding-x mtl" role="contentinfo">
-          <div class="large-12 cell">
-            <hr>
-            <ul class="menu quiet copyright align-right">
-              <li>
-                <a href="https://twitter.com/{{ site.twitter }}"><i class="fab fa-twitter"></i> @{{ site.twitter }}</a>
-              </li>
-              <li>
-                <a href="https://instagram.com/{{ site.instagram }}"><i class="fab fa-twitter"></i> @{{ site.instagram }}</a>
-              </li>
-            </ul>
-            <div class="menu quiet">
-              {% include nav.html %}
-            </div>
-          </div>
-        </footer>
-
-      </div><!-- end .grid-container -->
-
-    </div><!-- end .off-canvas-content -->
-
-    <!-- Loading JavaScripts
-    ================================================== -->
-
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
-    <script>window.jQuery || document.write('<script src="bower_components/jquery/dist/jquery.min.js"><\/script>')</script>
-    <script src="bower_components/what-input/dist/what-input.min.js"></script>
-    <script src="bower_components/foundation-sites/dist/js/foundation.min.js"></script>
-    <script src="js/app.js"></script>
-
-    <!-- Google Analytics -->
-
-  </body>
+      </div>
+      <div class="cell auto"></div>
+    </div>
+    <br>
+    {% include footer.html %}
+  <script
+		  src="https://code.jquery.com/jquery-3.4.1.min.js"
+		  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+		  crossorigin="anonymous"></script>
+  <script src="../dist/js/foundation.min.js"></script>
+  <script>
+    $(document).foundation();
+  </script>
 </html>
