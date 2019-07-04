@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Socials
-permalink: /socials
+permalink: /socials/
 description:
 ---
 
