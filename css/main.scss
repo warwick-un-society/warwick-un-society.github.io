@@ -64,10 +64,24 @@ footer  {
   height: 2rem;
   display: inline-block;
   padding: 0.1rem;
+  color: $white;
+  margin-top: 0;
+}
+
+.fa-social-logo  {
+  height: 2rem;
+  display: inline-block;
+  //padding: 0.1;
+  color: $white;
+  margin: 0;
 }
 
 .footer-content {
-  vertical-align: middle;
+  //vertical-align: middle;
+}
+
+.footer-left  {
+  vertical-align: top;
 }
 
 .footer-right {
@@ -88,9 +102,31 @@ nav {
   //position: fixed;
 }
 
+.logo {
+  height: 5rem;
 
+  @include breakpoint(small only) {
+    height: 3.5 rem;
+  }
+}
 
-$topbar-responsive-bg: #2c3840;
+.wordmark {
+  height: 4rem;
+
+  @include breakpoint(small only) {
+    height: 2.8 rem;
+  }
+}
+
+.logo .wordmark {
+  fill: #ff0000;
+}
+
+.logo .wordmark path {
+  fill: #ff0000;
+}
+
+$topbar-responsive-bg: #0C2745;//#2c3840;
 $topbar-responsive-animation-type: fade-in; // or use slide-down or none
 
 .topbar-responsive {
