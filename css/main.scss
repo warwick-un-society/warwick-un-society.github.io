@@ -105,9 +105,9 @@ $topbar-responsive-animation-type: fade-in; // or use slide-down or none
   .menu {
     background: $topbar-responsive-bg;
 
-    li:last-of-type {
+    /**li:last-of-type {
       margin-right: 0;
-    }
+    }**/
 
     a {
       color: $white;
