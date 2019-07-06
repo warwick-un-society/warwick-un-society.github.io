@@ -6,21 +6,7 @@
 
 @include foundation-everything;
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
-
-/*.no-js {
-  @include breakpoint(small only) {
-    .top-bar {
-      display: none;
-    }
-  }
-
-  @include breakpoint(medium) {
-    .title-bar {
-      display: none;
-    }
-  }
-}*/
+@import 'montserrat';
 
 .no-js  {
   display:none;
@@ -40,14 +26,9 @@
   }
 }
 
-/**body  {
+body  {
   font-family: 'Montserrat', sans-serif;
 }
-
-h1  {
-  font-family: 'Montserrat', sans-serif;
-}*/
-
 
 footer  {
   background-color: #777777;
@@ -96,10 +77,6 @@ html  {
 
 .content-wrapper  {
   margin-bottom: 7rem;
-}
-
-nav {
-  //position: fixed;
 }
 
 .logo {
@@ -231,4 +208,13 @@ $topbar-responsive-animation-type: fade-in; // or use slide-down or none
       animation: none;
     }
   }
+}
+
+.transition-fade {
+  transition: 0.4s;
+  opacity: 1;
+}
+
+html.is-animating .transition-fade {
+  opacity: 0;
 }
