@@ -7,6 +7,11 @@
 @include foundation-everything;
 
 @import 'montserrat';
+@font-face {
+    font-family: DINCondensed;
+    src: url(../fonts/DinCondensed/DINCondensed-Bold.ttf);
+    font-weight:400;
+}
 
 .no-js  {
   display:none;
@@ -37,11 +42,12 @@ footer  {
   padding: 1rem;
   color: $white;
   position: absolute;
-  height: 10vh;
+  min-height: 10vh;
   @include breakpoint(small only) {
     height: 20vh;
   }
   size: 1rem;
+  //overflow:auto;
 }
 
 .social-logo  {
@@ -63,7 +69,7 @@ footer  {
 
 .title-bar  {
   z-index: 5;
-  vertical-align: middle;
+  //vertical-align: middle;
 }
 
 .footer-content {
@@ -114,12 +120,13 @@ html  {
 }
 
 $topbar-responsive-bg: #0C2745;//#2c3840;
+$topbar-responsive-bg-warmun: #573B61;
 //$topbar-responsive-animation-type: slide-down; // or use slide-down or none
 
 .topbar-responsive {
   background: $topbar-responsive-bg;
   padding: 0.25rem 1rem;
-  height: 10vh;
+  min-height: 10vh;
   @media screen and (min-width: 40em) {
     //height: 15vh;
   }
@@ -413,7 +420,7 @@ $large-article-header-height: 90vh;//rem-calc(500);
 }
 
 .homepage-panel-content {
-  top: 15vh;
+  //top: 15vh;
 }
 
 .accordion-menu {
@@ -435,3 +442,31 @@ $large-article-header-height: 90vh;//rem-calc(500);
 /*.orbit-slide:not(.is-active) {
   display: none;
 }*/
+
+.homename  {
+  font-size: 5vh;
+}
+.slogan {
+  font-size: 3.75vh;
+}
+
+
+.topbar-responsive.warmun {
+  background-color: $topbar-responsive-bg-warmun;
+  ul  {
+    background-color: inherit;
+  }
+  .menu {
+    background: $topbar-responsive-bg-warmun;
+    .topbar-responsive-button {
+      &:hover {
+        color: lighten($topbar-responsive-bg-warmun, 60%);
+        border-color: lighten($topbar-responsive-bg-warmun, 60%);
+      }
+    }
+  }
+}
+
+h1.warmun {
+  font-family: DinCondensed;
+}

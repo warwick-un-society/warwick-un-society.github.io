@@ -1,0 +1,19 @@
+{
+    "name": "WARMUN",
+    "short_name": "WARMUN",
+    "icons": [
+        {
+            "src": "/img/icons/warmun/android-chrome-192x192.png?v=5AB6M7R0Kk",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/warmun/android-chrome-512x512.png?v=5AB6M7R0Kk",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}

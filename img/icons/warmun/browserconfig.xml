@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="/img/icons/warmun/mstile-150x150.png?v=5AB6M7R0Kk"/>
+            <TileColor>#3d114b</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
