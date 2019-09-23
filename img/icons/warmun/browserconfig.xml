@@ -2,8 +2,8 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/img/icons/warmun/mstile-150x150.png?v=5AB6M7R0Kk"/>
-            <TileColor>#3d114b</TileColor>
+            <square150x150logo src="{{ site.url }}/img/icons/warmun/mstile-150x150.png?v=m2Rnpp7NxM"/>
+            <TileColor>#573b61</TileColor>
         </tile>
     </msapplication>
 </browserconfig>
