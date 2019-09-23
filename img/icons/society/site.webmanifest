@@ -1,14 +1,14 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Warwick UN Society",
+    "short_name": "Warwick UN Society",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=NmP9PL7O7x",
+            "src": "/img/icons/society/android-chrome-192x192.png?v=M4K6dwEmom",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png?v=NmP9PL7O7x",
+            "src": "/img/icons/society/android-chrome-512x512.png?v=M4K6dwEmom",
             "sizes": "512x512",
             "type": "image/png"
         }

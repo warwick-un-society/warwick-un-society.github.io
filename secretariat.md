@@ -1,6 +1,6 @@
 ---
 layout: warmun
 title: Secretariat
-permalink: /secretariat/
+permalink: /warmun/secretariat/
 description:
 ---
