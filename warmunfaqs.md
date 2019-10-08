@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: warmun
 title: Frequently Answered Questions
 permalink: /warmun/faqs/
-
+description:
 ---
 
 ### When/where is WARMUN XIII?
