@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQs
-permalink: /warmunfaqs/
+permalink: /warmun/faqs/
 
 ---
 
