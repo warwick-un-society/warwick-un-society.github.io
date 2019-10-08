@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FAQs
+title: Frequently Answered Questions
 permalink: /warmun/faqs/
 
 ---
