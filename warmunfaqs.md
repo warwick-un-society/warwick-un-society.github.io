@@ -13,7 +13,7 @@ Warwick University campus, 4pm 22nd to 5pm 24th November.
 Your place will not be confirmed at the conference until you have paid on our SU website – tickets will be available in the coming days.
 #### 
 #### What committees will there be?
-The conference will have 3 branches - UN Security Council (UNSC), World Bank, and Crisis.
+The conference will have 4 branches - UN Security Council (UNSC), World Bank, ICJ, and Joint-Cabinet Crisis.
 
 #### Do I register as a single delegate or delegation?
 Either - single delegate if applying only for yourself, lead delegate if applying for yourself and others in your university. 
@@ -29,9 +29,6 @@ Yes - 2! A drinks social on Friday 22nd and our Yule Ball on Saturday 23rd Novem
 
 #### I’ll need a place to stay at the conference, what do I do?
 Ideally you will need to organise your own accommodation. We are offering a sofa-sharing scheme for free with Warwick students, but due to limited availability a space isn’t guaranteed.
-
-#### Is there any special support funding for the conference?
-Yes. Provided you inform us in your application form, we will contact you about what is available. You may need to fill in a further support funding form.
 
 #### What food arrangements will we have at the conference?
 We will not be providing any food apart from snacks at the social on Friday night and dinner at the Yule Ball on Saturday.
