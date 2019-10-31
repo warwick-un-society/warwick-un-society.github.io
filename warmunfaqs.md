@@ -9,11 +9,11 @@ description:
 Warwick University campus, 4pm 22nd to 5pm 24th November.
 
 #### How much is the conference fee?
-£15. There is also a social pack available, for which the fee is £30 for conference and ball attendance.
+£15. There is also a social pack available, for which the fee is £25.
 Your place will not be confirmed at the conference until you have paid on our SU website – tickets will be available in the coming days.
 #### 
 #### What committees will there be?
-The conference will have 4 branches - UN Security Council (UNSC), World Bank, ICJ, and Joint-Cabinet Crisis.
+The conference will have 3 branches - UN Security Council (UNSC), World Bank, and Joint-Cabinet Crisis.
 
 #### Do I register as a single delegate or delegation?
 Either - single delegate if applying only for yourself, lead delegate if applying for yourself and others in your university. 
