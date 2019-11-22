@@ -6,7 +6,7 @@ description:
 ---
 
 #### Friday 22nd November
-| | |
+| Time | Item |
 | ------------- | ------------ |
 | 12:00 - 15:00 | Registration |
 | 15:30 - 16:30 | Opening Ceremony PLT |
