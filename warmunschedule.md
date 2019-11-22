@@ -7,8 +7,8 @@ description:
 
 #### Friday 22nd November
 <table>
-  <tr><td>12:00 - 15:00</td><td>Registration</td></tr>
-  <tr><td>15:30 - 16:30</td><td>Opening Ceremony PLT</td></tr>
+  <tr><td>12:00 - 15:00</td><td>Registration</td><td>Oculus</td></tr>
+  <tr><td>15:30 - 16:30</td><td>Opening Ceremony</td><td>PLT</td></tr>
   <tr><td>16:30 - 17:00</td><td>Coffee Break</td></tr>
   <tr><td>17:00 - 19:00</td><td>Committee Session I</td></tr>
 </table>
@@ -21,7 +21,7 @@ description:
   <tr><td>14:30-16:00</td><td>Committee Session IV</td></tr>
   <tr><td>16:00-16:15</td><td>Coffee Break</td></tr>
   <tr><td>16:15-17:45</td><td>Committee Session V</td></tr>
-  <tr><td>19:00-00:00</td><td>Diplomacy Ball Chesford Grange Hotel</td></tr>
+  <tr><td>19:00-00:00</td><td>Diplomacy Ball</td><td>Chesford Grange Hotel</td></tr>
 </table>
 
 #### Sunday 24th November
