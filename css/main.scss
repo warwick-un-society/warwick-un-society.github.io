@@ -470,3 +470,11 @@ $large-article-header-height: 90vh;//rem-calc(500);
 h1.warmun {
   font-family: DinCondensed;
 }
+
+.button {
+  //display: block;
+  padding: 10px;
+  text-align: center;
+  border: 1px;
+  border-radius: 5px;
+}
