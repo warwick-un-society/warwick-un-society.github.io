@@ -471,10 +471,14 @@ h1.warmun {
   font-family: DinCondensed;
 }
 
-.button {
-  //display: block;
-  padding: 10px;
-  text-align: center;
-  border: 1px;
-  border-radius: 5px;
+.apply_button {
+  //color: $black;
+  /*border: 1px solid $black;*/
+  border-radius: 5000px;
+  transition: color 0.15s ease-in, border-color 0.15s ease-in;
+  display: inline-block;
+  /*&:hover {
+    color: darken(grey, 60%);
+    border-color: darken(grey, 60%);
+  }*/
 }
