@@ -48,7 +48,7 @@ description:
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Sahil Gandhi - USG Delegates</h4>
-    Sahil Gandhi is a first year MMORSE student at the university of Warwick. He will be serving as the USG of Delegates for the upcoming WARMUN HS. MUN has played a massive role in his life—it gave him the platform to gain the confidence he needed to become an individual who wasn’t afraid to get up and get his point across. Being in MUN helped him grow in ways he cannot imagine. Aside from MUN, he is a keep follower of football, particularly Manchester United, and also loves watching Formula 1.
+    Sahil Gandhi is a first year MMORSE student at the University of Warwick. He will be serving as the USG of Delegates for the upcoming WARMUN HS. MUN has played a massive role in his life—it gave him the platform to gain the confidence he needed to become an individual who wasn’t afraid to get up and get his point across. Being in MUN helped him grow in ways he could not imagine. Aside from MUN, he is a keen follower of football, particularly Manchester United, and also loves watching Formula 1.
   </div>
 </div>
 <div class="grid-x">
@@ -57,7 +57,7 @@ description:
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Giulia Tronconi - USG Logistics</h4>
-    Giulia Tronconi is a second year Film Studies student at The University of Warwick. Her main hobbies include photography and all forms of visual arts more generally. She started her MUN career at 16 and has been attending conferences for almost 6 years now. Originally from Milan, Italy, in high school she was part of the organising team for MilanMUN throughout the years, as well as just enjoying being a delegate and chairing internationally as frequently as possible. During WarMUN HS she’ll be your USG for Logistics, managing timetable and catering, creating an enjoyable experience for all delegates and making sure the conference flows smoothly.
+    Giulia Tronconi is a second year Film Studies student at the University of Warwick. Her main hobbies include photography and all forms of visual arts more generally. She started her MUN career at 16 and has been attending conferences for almost 6 years now. Originally from Milan, Italy, in high school she was part of the organising team for MilanMUN throughout the years, as well as just enjoying being a delegate and chairing internationally as frequently as possible. During WarMUN HS she’ll be your USG for Logistics, managing timetable and catering, creating an enjoyable experience for all delegates and making sure the conference flows smoothly.
   </div>
 </div>
 <div class="grid-x">
