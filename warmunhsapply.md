@@ -6,7 +6,12 @@ description:
 ---
 
 ### Delegate applications
-Delegate applications are not yet open for WARMUN High School. For more information and to register interest, please email the team at **[warmunhs@gmail.com](mailto:warmunhs@gmail.com)**.
+Delegate applications are now open for WARMUN High School.
+The cost for a single delegate is £20, which is lowered to £15 for groups of five delegates or more. This ticket includes the conference and lunch on both days of the conference. Group delegations can apply using the link below.  
+
+<button type="button" class="button primary apply_button hollow" onclick=" window.open('https://forms.gle/FqF1B1Sgf96HyyZh7','_blank')">**Apply as a group delegation for WARMUN HS!**</button>
+
+If you are in need of more information, or are a single delegate, please email the team at **[warmunhs@gmail.com](mailto:warmunhs@gmail.com)**.  
 
 ### Chair applications
 If you are a university student with MUN experience, you can apply to chair at the conference. There is no fee for attending as a chair. Applications close on 10th January 2020.
