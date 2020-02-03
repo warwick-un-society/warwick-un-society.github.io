@@ -11,7 +11,11 @@ The cost for a single delegate is £20, which is lowered to £15 for groups of f
 
 <button type="button" class="button primary apply_button hollow" onclick=" window.open('https://forms.gle/FqF1B1Sgf96HyyZh7','_blank')">**Apply as a group delegation for WARMUN HS!**</button>
 
-If you are in need of more information, or are a single delegate, please email the team at **[warmunhs@gmail.com](mailto:warmunhs@gmail.com)**.  
+If you are a single delegate, you can apply using the link below.
+
+<button type="button" class="button primary apply_button hollow" onclick=" window.open('https://forms.gle/FqF1B1Sgf96HyyZh7','_blank')">**Apply as a single delegate for WARMUN HS!**</button>
+
+If you are in need of more information, please email the team at **[warmunhs@gmail.com](mailto:warmunhs@gmail.com)**.  
 
 ### Chair applications
 If you are a university student with MUN experience, you can apply to chair at the conference. There is no fee for attending as a chair. Applications close on 10th January 2020.
