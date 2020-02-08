@@ -13,7 +13,7 @@ The cost for a single delegate is £20, which is lowered to £15 for groups of f
 
 If you are a single delegate, you can apply using the link below.
 
-<button type="button" class="button primary apply_button hollow" onclick=" window.open('https://forms.gle/FqF1B1Sgf96HyyZh7','_blank')">**Apply as a single delegate for WARMUN HS!**</button>
+<button type="button" class="button primary apply_button hollow" onclick=" window.open('https://forms.gle/gw4ZN2HztNMoLBm6A','_blank')">**Apply as a single delegate for WARMUN HS!**</button>
 
 If you are in need of more information, please email the team at **[warmunhs@gmail.com](mailto:warmunhs@gmail.com)**.  
 
