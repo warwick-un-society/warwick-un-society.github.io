@@ -10,11 +10,12 @@ One of our main priorities as the Warwick United Nations society is to allow our
 However, due to the uncertain nature of the recent global pandemic, our priority has to be to ensure our delegates’ safety. To that end, we are exploring different conference options, such as participating in virtual online conferences. Rest assured, we are constantly striving to bring delegates the most enjoyable conferences experience possible. Please keep following our website and social media for the most updated conferences opportunities available to our members.
 
 <!--
-As Warwick UN Society, one of our main goals is to ensure that we represent Warwick at various Model United Nations Conferences across the UK and internationally as well. Throughout the year we send delegations to these events, and have always performed exceptionally well. From tailored training for conferences to planning coordinated accommodation we focus on making the experience truly worthwhile. We carefully choose the conferences we go to each year, and hence we have opportunities for all experience levels! 
+As Warwick UN Society, one of our main goals is to ensure that we represent Warwick at various Model United Nations Conferences across the UK and internationally as well. Throughout the year we send delegations to these events, and have always performed exceptionally well. From tailored training for conferences to planning coordinated accommodation we focus on making the experience truly worthwhile. We carefully choose the conferences we go to each year, and hence we have opportunities for all experience levels! -->
 
+<!--
 Upcoming Conferences:
 * OxIMUN: 25th to 27th of October
 * CUIMUN: 8th to 10th of November
 * WARMUN: 22nd to 24th of November
 * NottsMUN: 29th of November to 1st of December
---.
+-->
