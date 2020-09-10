@@ -5,7 +5,7 @@ permalink: /faqs/
 ---
 ### How do I join Warwick UN Society?
 
-You can purchase membership for £3.50 at (https://www.warwicksu.com/societies-sports/societies/modelun/)[https://www.warwicksu.com/societies-sports/societies/modelun/]. You need Warwick SU Societies’ Federation membership to join: this can be added at the checkout.
+You can purchase membership for £3.50 at <https://www.warwicksu.com/societies-sports/societies/modelun/>. You need Warwick SU Societies’ Federation membership to join: this can be added at the checkout.
 
 ### How often are society events?
 
@@ -14,7 +14,7 @@ We run weekly training sessions on Wednesdays and additionally a few academic ev
 ### How can I find out about society events?
 
 Follow our Facebook and Instagram feeds to see our events as they are announced. We also send weekly emails during term time detailing what we are doing in the next week, and giving announcements for conferences and other larger events later on.
-You can follow our social media and join our mailing list at msha.ke/WarwickUNSociety.
+You can follow our social media and join our mailing list at <msha.ke/WarwickUNSociety>.
 
 ### I’ve never done MUN before, can I join?
 
@@ -26,7 +26,7 @@ Our community of members study a variety of subjects from all faculties of the u
 
 ### I have an idea for an event, how can I suggest this?
 
-Message us on Facebook or email us at warwickunexec@gmail.com with any suggestions or comments. We will try to get back to you promptly!
+Message us on Facebook or email us at <WarwickUNExec@gmail.com> with any suggestions or comments. We will try to get back to you promptly!
 
 ### How will the society’s activities be affected by the COVID 19 pandemic?
 
