@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MUN Conferences
+title: Conferences
 permalink: /conferences/
 description:
 ---
