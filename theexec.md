@@ -29,11 +29,11 @@ description:
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <!--<img src="{{ site.url }}/img/headshots/exec2020/" style="width:100%;">-->
+  <img src="{{ site.url }}/img/headshots/exec2020/Sabin.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Sabin Rufa - Treasurer</h4>
-    
+    Hi! I’m Sabin, a 2nd year student of Economics, Politics and International Studies BSc. As your treasurer, I will be making sure that everything related to the sponsorships, funding and other financial matters of the society is in good order. I am also excited to find new opportunities and avenues for involvement for all the members of the society, by building partnerships with external associations, NGOs and other entities. I look forward to meeting each of you and sharing the great experience that MUN is. The floor is YOURS!
   </div>
 </div>
 
@@ -59,7 +59,7 @@ description:
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <!--<img src="{{ site.url }}/img/headshots/exec2020/" style="width:100%;">-->
+  <img src="{{ site.url }}/img/headshots/exec2020/Adrian.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Adrian Tam - Conference Manager</h4>
@@ -81,11 +81,11 @@ description:
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <!--<img src="{{ site.url }}/img/headshots/exec2020/" style="width:100%;">-->
+  <img src="{{ site.url }}/img/headshots/exec2020/Kat.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Kat Mangam - Publicity Officer</h4>
-    
+    Hi, my name is Kat, I’m the publicity officer and I’m a 2nd year EPAIS student. I joined Warwick UN Society as a fresher with no prior experience but with the help of weekly training sessions and general support from other members I was able to learn so much and feel confident in my debate. The society balances both academic and social events and I hope I can convince you to come to both through my marketing! I’m so excited to be a part of the exec and take the supportive spirit forward. I hope to be an approachable and accessible figure if you ever need any help or guidance 🙂
   </div>
 </div>
 
