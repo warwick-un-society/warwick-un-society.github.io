@@ -10,7 +10,7 @@ description:
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Aaron Gilchrist - President</h4>
-    Aaron Gilchrist is a second year Mathematics student at the University of Warwick who is the President of Warwick UN Society.
+    Aaron Gilchrist is a third year Mathematics student at the University of Warwick who is the President of Warwick UN Society.
     <br><br>
     He was the Training Officer of Warwick UN Society for 2019-2020 and in this role he co-founded the Warwick UN Society MUN 101 Workshop, an innovative programme designed to transform new MUNers into esteemed diplomats in the timescale of one day. He has attended over 30 conferences in his seven-year MUN career in a variety of roles; highlights include being Secretary General of his school’s conference, ReiMUN, and being the President of the Special Conferences and 200 delegate plenary at MUNISH 2017. He really enjoys meeting new people from around the world, and MUN conferences provide the perfect environment for this.<br><br>
     While he is not doing MUN, he is always studying, but in the rare instances he is not doing either of these things, Aaron enjoys cooking, eating, gaming, and socialising.
@@ -23,7 +23,7 @@ description:
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Chia Yong Gan - Vice President</h4>
-    Hey there, my name is Chia Gan and I am acting Vice-President of the Warwick UN society. I enjoy uncomfortable discussions and making fun of mimes. If you wish to make friends while discussing global issues on a weekly basis, the UN society is welcoming to everyone. If you wish to hit me up to discuss the practise or ideals of MUN, i'd rather you didn't.
+    Hey there, my name is Chia Gan and I am acting Vice-President of the Warwick UN society. I enjoy uncomfortable discussions and making fun of mimes. If you wish to make friends while discussing global issues on a weekly basis, the UN society is welcoming to everyone. If you wish to hit me up to discuss the practise or ideals of MUN, I'd rather you didn't.
   </div>
 </div>
 
