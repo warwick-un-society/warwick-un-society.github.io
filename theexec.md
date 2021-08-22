@@ -6,75 +6,90 @@ description:
 ---
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-    <img src="{{ site.url }}/img/headshots/warmunhs2019/Aaron.jpg" style="width:100%;">
+
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
-    <h4>Aaron Gilchrist - President</h4>
-    Aaron Gilchrist is a third year Mathematics student at the University of Warwick who is the President of Warwick UN Society.
-    <br><br>
-    He was the Training Officer of Warwick UN Society for 2019-2020 and in this role he co-founded the Warwick UN Society MUN 101 Workshop, an innovative programme designed to transform new MUNers into esteemed diplomats in the timescale of one day. He has attended over 30 conferences in his seven-year MUN career in a variety of roles; highlights include being Secretary General of his school’s conference, ReiMUN, and being the President of the Special Conferences and 200 delegate plenary at MUNISH 2017. He really enjoys meeting new people from around the world, and MUN conferences provide the perfect environment for this.<br><br>
-    While he is not doing MUN, he is always studying, but in the rare instances he is not doing either of these things, Aaron enjoys cooking, eating, gaming, and socialising.
+    <h4>Rob Sunnucks - President</h4>
+    
+Hi, my name is Rob, and I am the new president of Warwick UN Soc🥳
+
+I'm about to start the 3rd year of my Maths course at uni and couldn't be more excited for what we will get up to as a society next year.
+
+Warwick UN Soc has made my first 2 years of uni such an incredible experience, from engaging in thrilling debate in MUN, plotting and scheming in a MUN Crisis, and having such a fantastic time at the socials. I cant wait to share all of the enjoyment that I have gotten from this society with as many people as I can!
+
+I hope we can all enjoy this next academic year, and I look forward to being your new president 🙂
+    
+    
   </div>
 </div>
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-    <img src="{{ site.url }}/img/headshots/exec2020/Gan.jpeg" style="width:100%;">
+
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
-    <h4>Chia Yong Gan - Vice President</h4>
-    Hey there, my name is Chia Gan and I am acting Vice-President of the Warwick UN society. I enjoy uncomfortable discussions and making fun of mimes. If you wish to make friends while discussing global issues on a weekly basis, the UN society is welcoming to everyone. If you wish to hit me up to discuss the practise or ideals of MUN, I'd rather you didn't.
+    <h4>Sanchit Bagri - Vice President and Training Officer</h4>
+    
+Hi, everyone I am the new Vice President and Training officer, a second year Econ student, quite excited to see few US delegates finally go to DEFCON 1 and destroy this planet! I’m joking, I just had to add some MUN humour 😅.
+
+I remember my first Warwick UN soc experience, a small training session. It ended up not being formal, going away from the topic to destroy each other’s countries. Well that is what MUNing is about after all, forget the agenda and destroy each other 😅. I’m quite excited to more of such heated debates but also genuine discussions to realise the world around us needs to be worked on by cooperation.
+
+Can’t wait to see you guys at UNsoc!
+    
   </div>
 </div>
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2020/Sabin.jpg" style="width:100%;">
+  
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
-    <h4>Sabin Rufa - Treasurer</h4>
-    Hi! I’m Sabin, a 2nd year student of Economics, Politics and International Studies BSc. As your treasurer, I will be making sure that everything related to the sponsorships, funding and other financial matters of the society is in good order. I am also excited to find new opportunities and avenues for involvement for all the members of the society, by building partnerships with external associations, NGOs and other entities. I look forward to meeting each of you and sharing the great experience that MUN is. The floor is YOURS!
+    <h4>Haroon Khan - Treasurer and Conference Manager</h4>
+    
+Hi everyone, My name is Haroon, and I am your new Treasurer and Conference Manager.
+
+A second-year Accounting and Finance student who has a passion for debate. I am excited to scout people and give them the chance to go to competitive MUN Tournaments hopefully (in person) but also hoping that debate gets heated in the training sessions!
+
+My favourite UN Society memory would probably be the small training session we had at the start of the year where I was the USA and where we were just dissing each other assigned countries. Or the time at LIMUN where I was Bangladesh in the Historical Security Council, unfortunately, the P5's were cooperating with each other 😔.
+
+UN Society has great potential and cannot wait to see what this new year brings!!!
+    
   </div>
 </div>
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2020/Nicholas.jpg" style="width:100%;">
+    
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
-    <h4>Nicholas Sim Ting Yen - Training Officer</h4>
-    Nicholas is a First Year PAIS student who enjoys MUN, gaming, movies and eating. He also has a bit too much knowledge about Star Wars and comics.
-  </div>
-</div>
+    <h4>Waleed Qureshi - Academic Officer</h4>
+      
 
-<div class="grid-x">
-  <div class="cell small-12 medium-4" style="padding:1rem;">
-    <img src="{{ site.url }}/img/headshots/exec2020/Basmah.jpeg" style="width:100%;">
-  </div>
-  <div class="cell small-12 medium-8" style="padding:1rem;">
-    <h4>Basmah Ali - Academic Officer</h4>
-      Hi, I’m Basmah, the UN Society’s Academic officer and a second year Classical Civilisation student. I joined the society as a complete newbie to debating and loved my time here, and I hope you will too. If you have any questions, or want to get involved in the academic side of the society feel free to drop me a message.
-  </div>
-</div>
+hi, my name is Waleed Qureshi and i’m the new academic officer.
 
-<div class="grid-x">
-  <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2020/Adrian.JPG" style="width:100%;">
-  </div>
-  <div class="cell small-12 medium-8" style="padding:1rem;">
-    <h4>Adrian Tam - Conference Manager</h4>
-    I’m Adrian Tam and I am your Conferences Manager for this year! I will be working to make sure that our delegates have access to some of the largest and most enjoyable conferences on both the UK and the international MUN circuit. I am also one of the co-Secretaries General for this year’s WarMUN, our annual society-run conference. Aside from managing our delegation’s conferences schedule and logistics, I can also be regularly seen in society events such as socials, training sessions and workshops. I’m very excited to meet our new members for this year and I hope to be an accessible and welcoming exec member!
+i study law and like to keep up with the news so i thought why not apply for academic officer. I’ve never attended an MUN before but let’s just say i’m always up for a good debate.
+
+hopefully we are going to run some events where we can discuss global matters with some notable speakers and learn something from them, but more on that soon.
+
+i hope you are excited for what we have to offer for this year!
+    
   </div>
 </div>
 
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2020/Saj.png" style="width:100%;">
+
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
-    <h4>Sayujya Grover - Socials & Welfare Officer</h4>
-    Hello everybody! I’m Sayujya but you can call me Saj if you buy a membership. I am super excited to be this years Social and Welfare Officer for the UN Society. As your Socials officer, I will be running many fun events throughout the year that are suitable for all people, and as Welfare Officer you can rely on me to ensure our society is a safe and welcoming place for everyone to join in and participate. I cannot wait to meet everyone and make sure that this is the best year for UN socials ever!
+    <h4>Shaurya Dhar - Socials & Welfare Officer</h4>
+    
+Hi, I'm Shaurya Dhar, the new Socials and Welfare Officer.
+
+I'm a second year management student and am an experienced MUNer. The society is a brilliant way to broaden your knowledge on current and historical world affairs.
+
+Can't wait to see you all at socials and the customary after parties that usually go on till the following morning!
+    
   </div>
 </div>
 
@@ -85,7 +100,7 @@ description:
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Kat Mangam - Publicity Officer</h4>
-    Hi, my name is Kat, I’m the publicity officer and I’m a 2nd year EPAIS student. I joined Warwick UN Society as a fresher with no prior experience but with the help of weekly training sessions and general support from other members I was able to learn so much and feel confident in my debate. The society balances both academic and social events and I hope I can convince you to come to both through my marketing! I’m so excited to be a part of the exec and take the supportive spirit forward. I hope to be an approachable and accessible figure if you ever need any help or guidance 🙂
+    Hi, my name is Kat, I’m the publicity officer and I’m a 3rd year EPAIS student. I joined Warwick UN Society as a fresher with no prior experience but with the help of weekly training sessions and general support from other members I was able to learn so much and feel confident in my debate. The society balances both academic and social events and I hope I can convince you to come to both through my marketing! I’m so excited to be a part of the exec and take the supportive spirit forward. I hope to be an approachable and accessible figure if you ever need any help or guidance 🙂
   </div>
 </div>
 
