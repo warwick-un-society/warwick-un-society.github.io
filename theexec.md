@@ -6,7 +6,7 @@ description:
 ---
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-
+  <img src="{{ site.url }}/img/headshots/exec 2020/Rob Exec Photo.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Rob Sunnucks - President</h4>
@@ -25,7 +25,7 @@ I hope we can all enjoy this next academic year, and I look forward to being you
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-
+  <img src="{{ site.url }}/img/headshots/exec 2020/Sanchit Exec Photo.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Sanchit Bagri - Vice President and Training Officer</h4>
@@ -41,7 +41,7 @@ Can’t wait to see you guys at UNsoc!
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  
+  <img src="{{ site.url }}/img/headshots/exec 2020/Haroon Exec Photo.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Haroon Khan - Treasurer and Conference Manager</h4>
@@ -59,7 +59,7 @@ UN Society has great potential and cannot wait to see what this new year brings!
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-    
+  <img src="{{ site.url }}/img/headshots/exec 2020/Waleed Exec Photo.jpg" style="width:100%;">  
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Waleed Qureshi - Academic Officer</h4>
@@ -79,7 +79,7 @@ i hope you are excited for what we have to offer for this year!
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-
+  <img src="{{ site.url }}/img/headshots/exec 2020/Shaur Exec Photo.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Shaurya Dhar - Socials & Welfare Officer</h4>
@@ -96,7 +96,7 @@ Can't wait to see you all at socials and the customary after parties that usuall
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2020/Kat.jpg" style="width:100%;">
+  <img src="{{ site.url }}/img/headshots/exec 2020/Kat Exec Photo.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Kat Mangam - Publicity Officer</h4>
