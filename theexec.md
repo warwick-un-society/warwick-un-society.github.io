@@ -96,7 +96,7 @@ Can't wait to see you all at socials and the customary after parties that usuall
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2020/Kat.jpg" style="width:100%;">
+  <img src="{{ site.url }}/img/headshots/exec 2020/Kat Exec Photo.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Kat Mangam - Publicity Officer</h4>
