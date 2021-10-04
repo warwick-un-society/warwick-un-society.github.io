@@ -12,7 +12,7 @@ After a year away, the Warwick United Nations Society is proud to announce the r
 To find out more about our conference, check out these useful pages below:
   
 | <!-- --> | <!-- --> |
-| ---- | ---- |
+| :----: | :----: |
 | _Committees_ | _Delegates_ |
 | _Chairing_ | _FAQ_ |
 | _Socials_ | _Policies and Statements_ |
