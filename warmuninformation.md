@@ -4,8 +4,17 @@ title: WARMUN
 permalink: /warmun/
 description:
 ---
-The Warwick United Nations society is proud to announce the return of the fourteenth iteration of our annual Model UN conference - WarMUN XIV. WarMUN is the place for our delegates to sharpen and enhance their conference skills and meet new friends from across the UK and international circuit. With interesting and provoking topics and councils run by experienced chairs, WarMUN is the perfect place for delegates of all skill levels.
 
-Aside from our amazing conference experience, WarMUN’s social activities are also not to be missed. Prepare for nights of fun socials where you can share a drink and hang out with your fellow delegates and chairs in a social environment! WarMUN also features interesting speakers sure to interest delegates in a variety of topics on international relations.
+![warmun](https://user-images.githubusercontent.com/55463665/135881403-61bc9af4-7ef4-4f5f-9ead-2c4714d1a77a.jpeg)
 
-Due to the uncertain nature of the recent health crisis, WarMUN XIV has been postponed until the spring of 2021, subject to the most recent government restrictions. The safety of our delegates, chairs and secretariat are our utmost priority. Please check our website and social media for the latest on WarMUN XIV.
+After a year away, the Warwick United Nations Society is proud to announce the return of our annual Model UN conference, to be held on 26-28 of November 2021. Be sure to join us for a weekend of fun and exciting conferencing, hosted at the Warwick University campus, as well as our fun nights out at nearby Leamington Spa!
+
+To find out more about our conference, check out these useful pages below:
+  
+| <!-- --> | <!-- --> |
+| ---- | ---- |
+| _Committees_ | _Delegates_ |
+| _Chairing_ | _FAQ_ |
+| _Socials_ | _Policies and Statements_ |
+
+We will be updating the site regularly during the lead-up to the conference so make sure to return to the site regularly for more updates!
