@@ -1,35 +1,38 @@
 ---
-layout: warmun
-title: Schedule
+layout: default
+title: Conference Schedule
 permalink: /warmun/schedule/
 description:
 ---
 
-#### Friday 22nd November
+#### Friday 26th November
 <table>
-  <tr><td class="times">12:00 - 15:00</td><td>Registration</td></tr>
-  <tr><td>15:30 - 16:30</td><td>Opening Ceremony in PLT</td></tr>
-  <tr><td>16:30 - 17:00</td><td>Coffee Break</td></tr>
-  <tr><td>17:00 - 19:00</td><td>Committee Session I</td></tr>
+  <tr><td class="times">13:00 - 15:00</td><td> Delegate registration</td></tr>
+  <tr><td>15:00 - 16:00</td><td>Opening ceremony</td></tr>
+  <tr><td>16:00 - 18:30</td><td>Committee session I</td></tr>
+  <tr><td>20:00 - 22:00</td><td>Social I</td></tr>
 </table>
 
-#### Saturday 23rd November
+#### Saturday 27th November
 <table>
-  <tr><td class="times">09:00-11:15</td><td>Committee Session II</td></tr>
-  <tr><td>11:30-13:00</td><td>Committee Session III</td></tr>
-  <tr><td>13:00-14:30</td><td>Lunch</td></tr>
-  <tr><td>14:30-16:00</td><td>Committee Session IV</td></tr>
-  <tr><td>16:00-16:15</td><td>Coffee Break</td></tr>
-  <tr><td>16:15-17:45</td><td>Committee Session V</td></tr>
-  <tr><td>19:00-00:00</td><td>Diplomacy Ball in Chesford Grange Hotel</td></tr>
+  <tr><td class="times">09:00-11:00</td><td>Committee Session II</td></tr>
+  <tr><td>11:00-11:15</td><td>Break</td></tr>
+  <tr><td>11:15-12:30</td><td>Committee session III</td></tr>
+  <tr><td>12:30-14:00</td><td>Lunch break</td></tr>
+  <tr><td>14:00-16:00</td><td>Committee session IV</td></tr>
+  <tr><td>16:00-16:15</td><td>Break</td></tr>
+  <tr><td>16:15-18:00</td><td>Committee session V</td></tr>
+  <tr><td>21:00-01:30</td><td>Social II</td></tr>
 </table>
 
-#### Sunday 24th November
+#### Sunday 28th November
 <table>
-  <tr><td class="times">09:00-11:15</td><td>Committee Session VI</td></tr>
-  <tr><td>11:15-11:45</td><td>Coffee Break</td></tr>
-  <tr><td>11:45-14:00</td><td>Committee Session VII</td></tr>
-  <tr><td>14:00-15:00</td><td>Lunch</td></tr>
-  <tr><td>15:00-15:30</td><td>Committee Pictures</td></tr>
-  <tr><td>15:30-17:00</td><td>Closing Ceremony & Awards</td></tr>
+  <tr><td class="times">09:00-11:00</td><td>Committee session VI</td></tr>
+  <tr><td>11:00-11:15</td><td>Break</td></tr>
+  <tr><td>11:15-12:30</td><td>Committee session VII</td></tr>
+  <tr><td>12:30-14:00</td><td>Lunch</td></tr>
+  <tr><td>14:00-16:00</td><td>Committee session VIII</td></tr>
+  <tr><td>16:00-17:30</td><td>Closing ceremony and awards</td></tr>
 </table>
+
+Timetable is subject to change.
