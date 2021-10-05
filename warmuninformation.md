@@ -13,8 +13,8 @@ To find out more about our conference, check out these useful pages below:
   
 | <!-- --> | <!-- --> |
 | :----: | :----: |
-| _Committees_ | _Delegates_ |
-| _Chairing_ | _FAQ_ |
-| _Socials_ | _Policies and Statements_ |
+| ![COMMITTEES](https://user-images.githubusercontent.com/55463665/136007161-2e9b94e2-4c49-4804-ac24-6adbbbe89f21.jpg) | ![APPLICATIONS](https://user-images.githubusercontent.com/55463665/136006653-0c8511d9-3048-405e-8687-2b30b9864c9a.jpg) |
+| _Timetable_ | _FAQ_ |
+| ![SOCIALS](https://user-images.githubusercontent.com/55463665/136006765-63ff283c-dcfc-47b7-bbd5-e59b33efd2f6.jpg) | ![POLICIES AND STATEMENTS](https://user-images.githubusercontent.com/55463665/136006582-c8bfac71-509a-4493-9bfa-606f4a2cd7ae.jpg) |
 
 We will be updating the site regularly during the lead-up to the conference so make sure to return to the site regularly for more updates!
