@@ -15,7 +15,7 @@ description:
 
 #### Saturday 27th November
 <table>
-  <tr><td class="times">09:00-11:00</td><td>Committee Session II</td></tr>
+  <tr><td class="times">09:00-11:00</td><td>Committee session II</td></tr>
   <tr><td>11:00-11:15</td><td>Break</td></tr>
   <tr><td>11:15-12:30</td><td>Committee session III</td></tr>
   <tr><td>12:30-14:00</td><td>Lunch break</td></tr>
