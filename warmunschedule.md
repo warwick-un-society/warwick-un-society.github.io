@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conference Schedule
-permalink: /warmun/schedule/
+permalink: /warmun/timetable/
 description:
 ---
 
