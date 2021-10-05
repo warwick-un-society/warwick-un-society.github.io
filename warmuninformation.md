@@ -13,7 +13,7 @@ To find out more about our conference, check out these useful pages below:
   
 | <!-- --> | <!-- --> |
 | :----: | :----: |
-| ![COMMITTEES](https://user-images.githubusercontent.com/55463665/136007161-2e9b94e2-4c49-4804-ac24-6adbbbe89f21.jpg) | <a href="warmunapply.md"> ![APPLICATIONS](https://user-images.githubusercontent.com/55463665/136006653-0c8511d9-3048-405e-8687-2b30b9864c9a.jpg) </a> |
+| ![COMMITTEES](https://user-images.githubusercontent.com/55463665/136007161-2e9b94e2-4c49-4804-ac24-6adbbbe89f21.jpg) | <a href="http://warwickun.org/warmun/apply"> ![APPLICATIONS](https://user-images.githubusercontent.com/55463665/136006653-0c8511d9-3048-405e-8687-2b30b9864c9a.jpg) </a> |
 | ![TIMETABLE](https://user-images.githubusercontent.com/55463665/136009977-f3e40ca4-ec95-4240-bb6b-a1952acadec6.jpg) | ![FAQ](https://user-images.githubusercontent.com/55463665/136009992-0c57db9a-b9d3-4d64-8007-5ef19e56399f.jpg) |
 | ![SOCIALS](https://user-images.githubusercontent.com/55463665/136006765-63ff283c-dcfc-47b7-bbd5-e59b33efd2f6.jpg) | ![POLICIES AND STATEMENTS](https://user-images.githubusercontent.com/55463665/136006582-c8bfac71-509a-4493-9bfa-606f4a2cd7ae.jpg) |
 
