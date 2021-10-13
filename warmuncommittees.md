@@ -10,4 +10,8 @@ The world as we know it today seems unrecognisable compared to what it was less 
 
 Our committee selections and their topics aim to reflect this changing reality, challenging delegates to find new and innovative ways to confront these global issues, and make a positive change on the world.
 
-We will be publishing our list of commmittees soon. Please check back regularly to find out about our committees and topics!
+## Committees:
+<a href="http://warwickun.org/warmun/committees/crisis"> ![CRISIS](https://user-images.githubusercontent.com/55463665/137209939-2677d73b-99ae-42a1-ba9b-9223bea776fe.jpg) </a>
+
+
+We will be updating our list of commmittees as soon as they are confirmed. Please check back regularly to find out about our committees and topics!
