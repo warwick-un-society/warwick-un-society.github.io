@@ -15,6 +15,9 @@ Once we receive your delegate application, we will get in touch with you to arra
 #### What committees will there be?
 Committees are in the process of being finalised - we will be updating you soon!
 
+#### What are the rules of procedure of the conference?
+WarMUN 2021 will be using the HMUN rules of procedure. You can find the rules of procedure handbook <a href="https://www.yumpu.com/en/document/read/22180426/hmun-rules-of-procedure-harvard-model-united-nations"> here </a>
+
 #### Do I register as a single delegate or delegation?
 Either - single delegate if applying only for yourself, lead delegate if applying for yourself and others in your university. 
 
