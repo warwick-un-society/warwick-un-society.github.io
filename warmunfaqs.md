@@ -8,6 +8,12 @@ description:
 #### When/where is WARMUN 2021?
 Warwick University campus, 1pm 26nd to 5:30pm 28th November. Registration is 1pm on 26nd November, opening ceremony commences at 3pm.
 
+#### Will this be an in-person conference?
+Yes - after a year away due to the COVID-19 pandemic, we are proud to announce that our conference will be <b> in-person </b> as normal!
+
+#### How will the conference be affected by COVID-19
+We are committed to ensuring the safety of our delegates and staff, and as such are following Unviersity and UK Government guidlines throughout. Please refer to our <a href="http://warwickun.org/warmun/policies"> Policies and Statements </a> page for more information on how we plan to keep you safe.
+
 #### How much is the conference fee?
 £15. There is also a social pack available, for which the fee is £25.
 Once we receive your delegate application, we will get in touch with you to arrange the payment of the conference fee, which should take the form of a bank transfer.
@@ -40,4 +46,4 @@ All information can be found in the conference handbook when it is released.
 We will confirm your attendance as soon as payment is registered. We aim to allocate cabinet positions as soon as possible.
 
 #### Who can I contact about the conference?
-You can contact us at: warwickunexec@gmail.com should you wish to get in touch or have further inquiries.
+You can contact us at: warwickunexec@gmail.com should you wish to get in touch or have any further inquiries.
