@@ -11,7 +11,7 @@ Warwick University campus, 1pm 26nd to 5:30pm 28th November. Registration is 1pm
 #### Will this be an in-person conference?
 Yes - after a year away due to the COVID-19 pandemic, we are proud to announce that our conference will be <b> in-person </b> as normal!
 
-#### How will the conference be affected by COVID-19
+#### How will the conference be affected by COVID-19?
 We are committed to ensuring the safety of our delegates and staff, and as such are following Unviersity and UK Government guidlines throughout. Please refer to our <a href="http://warwickun.org/warmun/policies"> Policies and Statements </a> page for more information on how we plan to keep you safe.
 
 #### How much is the conference fee?
