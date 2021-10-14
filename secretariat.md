@@ -29,3 +29,4 @@ It is my pleasure to welcome you all to the WarMUN 2021, finally in a physical f
 
 
 #### Crisis Director: Nicholas Sim
+Nic is a 3rd year Politics and International Studies student with interests in national security, military analysis and intelligence studies. He also enjoys laughing at the meme-like nature of Malaysian politics and eating what his doctor calls "a questionable amount of unhealthy food"
