@@ -26,7 +26,11 @@ It is my pleasure to welcome you all to the WarMUN 2021, finally in a physical f
 
 
 #### Under-Secretaries-General for Logistics: Jasmine Nasser, Keeley Ruane
+Despite being new to the society myself, allow me to welcome you to the Warwick Model  United Nations 2021. My name is Keeley Ruane, I’m a third year English Literature student who next year will be completing an LLM in International Law and Human Rights, though some may argue (mostly Adrian) that, most importantly, I will be one half of the Under Secretary General of Logistics for the 2021 MUN here at the University of Warwick! Over the past three years, I’ve increasingly directed my academic career in line with developments from the United Nations’ OHCHR, of which such passion has been further facilitated by Warwick UN Society and Warwick’s Centre for Human Rights in Practice. Having worked for LIMUN last year and organised Cambridge International IQ Schools sixth-form MUN conferences before, I’m beyond eager to bring you the conference that not only meets your expectations but dramatically exceeds them. I can’t wait to learn something from each and every one of you!
 
+P.S. Yes - WarMUN trumps all.
+
+Adrian
 
 #### Crisis Director: Nicholas Sim
 Nic is a 3rd year Politics and International Studies student with interests in national security, military analysis and intelligence studies. He also enjoys laughing at the meme-like nature of Malaysian politics and eating what his doctor calls "a questionable amount of unhealthy food"
