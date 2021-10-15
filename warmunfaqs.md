@@ -15,7 +15,7 @@ Yes - after a year away due to the COVID-19 pandemic, we are proud to announce t
 We are committed to ensuring the safety of our delegates and staff, and as such are following Unviersity and UK Government guidlines throughout. Please refer to our <a href="http://warwickun.org/warmun/policies"> Policies and Statements </a> page for more information on how we plan to keep you safe.
 
 #### How much is the conference fee?
-£15. There is also a social pack available, for which the fee is £25.
+£15. There is also a social pack available, for which the fee is £27.
 Once we receive your delegate application, we will get in touch with you to arrange the payment of the conference fee, which should take the form of a bank transfer.
 
 #### What committees will there be?
