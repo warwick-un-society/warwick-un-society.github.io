@@ -38,7 +38,7 @@ It is my pleasure to welcome you all to the WarMUN 2021, finally in a physical f
 
 
 #### Under-Secretary-General for Outreach: Iris Bernheim
-Hello everyone! I am honoured to be this year’s Under-Secretary General for Outreach and Marketing. As a PPE finalist I have only recently discovered my interest for International Relations and International topics. We all went through hard times because of this pandemic, yet without it I would have never discovered my passion for international matters. The WarMUN 2021 team and I will hope that you will enjoy the conference and we cannot wait to welcome you from November 26th-28th!! 
+Hello everyone! I am honoured to be this year’s Under-Secretary General for Outreach and Marketing. As a PPE finalist I have only recently discovered my interest for International Relations and International topics. We all went through hard times because of this pandemic, yet without it I would have never discovered my passion for international matters. The WarMUN 2021 team and I hope that you will enjoy the conference and we cannot wait to welcome you from November 26th-28th!! 
 
 
 <div class="grid-x">
