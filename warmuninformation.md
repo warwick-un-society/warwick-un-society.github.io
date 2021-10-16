@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WARMUN
+title: Warwick Model United Nations Conference 2021
 permalink: /warmun/
 description:
 ---
