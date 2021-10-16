@@ -59,7 +59,7 @@ Hi! I am Anavi, a 3rd year Management with Entrepreneurship student at the Warwi
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     
-Hi, I'm Shaurya Dhar, one of the USG Socials.I'm a third year management student and am an experienced MUNer. The conference is a brilliant way to broaden your knowledge on current and historical world affairs. Can't wait to see you all at socials that Anavi and I are planning for this conference!
+Hi, I'm Shaurya Dhar, one of the USG Socials. I'm a third year management student and am an experienced MUNer. The conference is a brilliant way to broaden your knowledge on current and historical world affairs. Can't wait to see you all at socials that Anavi and I are planning for this conference!
     
   </div>
 </div>
