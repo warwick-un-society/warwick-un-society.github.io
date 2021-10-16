@@ -11,6 +11,6 @@ description:
 Chairing applications end on Sunday 17th October - sign up soon if you're interested!
 
 ### Apply as a delegate:
-Fees: £15 Conference, £25 Social pack
+Fees: £15 Conference, £27 Social pack
 
 Individual delegate and delegation applications opening soon! Check back for more details!
