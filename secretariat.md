@@ -66,7 +66,7 @@ Hi, I'm Shaurya Dhar, one of the USG Socials. I'm a third year management studen
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-    <img src="![c5bb6734-83e1-4bd3-be32-d032f9bb0ddd](https://user-images.githubusercontent.com/55463665/137594361-0e92343a-02e5-4468-b671-4277df2bf4de.jpg)" style="width:100%;">
+    <img src="https://user-images.githubusercontent.com/55463665/137594361-0e92343a-02e5-4468-b671-4277df2bf4de.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Under-Secretaries-General for Logistics: Jasmine Nasser, Keeley Ruane</h4>
