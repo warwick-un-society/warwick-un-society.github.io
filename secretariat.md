@@ -31,8 +31,17 @@ It is with great pride and honour that I welcome each and every one of you to Wa
 #### Under-Secretary-General for Chairing: Ankit Mehta
 Greetings all, it is an honour to welcome you to WarMUN 2021 as the Under-Secretary-General of Chairing. I have always been interested in the relationships between the social, political, and finance spheres - I carry this fascination with me as an Accounting and Finance undergraduate at Warwick. Having participated in 11 MUNs in the Middle East, I have identified the determining factors of delegate success to be confidence and critical thinking. Therefore, I am excited to observe passionate debate and the formulation of astute resolutions during the committee sessions. We wish you the best of luck, let’s make the most of it!
 
-#### Under-Secretary-General for Delegates: Rafik Niftaliyev
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+  <img src="https://user-images.githubusercontent.com/55463665/137594798-048fd268-42b5-4b2e-8b98-63eb4be0d6bf.jpg" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    <h4>Under-Secretary-General for Delegates: Rafik Niftaliyev</h4>
+    
 It is my pleasure to welcome you all to the WarMUN 2021, finally in a physical format after a long wait. I am Rafik Niftaliyev and I will be serving as the Under-Secretary-General for Delegates in this year’s conference. Currently a first-year PPE Student at the University of Warwick, I am deeply interested in global political developments, hence, I have dedicated myself to MUN conferences and beyond for the past few years. I am looking forward to seeing you all soon and will be happy with any enquiries or issues you have throughout the session.
+    
+  </div>
+</div>
 
 #### Under-Secretary-General for Finance: Haroon Khan
 
