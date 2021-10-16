@@ -52,9 +52,10 @@ Hi! I am Anavi, a 3rd year Management with Entrepreneurship student at the Warwi
     
   </div>
 </div>
+
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-    <img src="{{ site.url }}/img/headshots/exec2021/ShaurExecPhoto.jpg"" style="width:100%;">
+    <img src="{{ site.url }}/img/headshots/exec2021/ShaurExecPhoto.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     
