@@ -64,13 +64,33 @@ Hi, I'm Shaurya Dhar, one of the USG Socials. I'm a third year management studen
   </div>
 </div>
 
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+    <img src="![c5bb6734-83e1-4bd3-be32-d032f9bb0ddd](https://user-images.githubusercontent.com/55463665/137594361-0e92343a-02e5-4468-b671-4277df2bf4de.jpg)" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    <h4>Under-Secretaries-General for Logistics: Jasmine Nasser, Keeley Ruane</h4>
+    
+Hi everyone, I am excited to welcome you all to this year's Warwick Model United Nations conference! My name is Jasmine Nasser and I will be serving as one half of the Under Secretary General of Logistics. As a third year Politics and International Studies student, MUN has been a large part of my university and school life. Therefore, I am exhilarated to be a part of the 2021 WARMUN team! MUN conferences are an amazing experience, many of which  embed long-lasting friendships as you get to meet so many different people. So, after a long period of time, being able to host another conference is exciting. We ensure that WARMUN 2021 will be beyond everyone’s expectations! I cannot wait to see you all soon. 
+    
+  </div>
+</div>
 
-#### Under-Secretaries-General for Logistics: Jasmine Nasser, Keeley Ruane
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+    <img src="" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    
 Despite being new to the society myself, allow me to welcome you to the Warwick Model  United Nations 2021. My name is Keeley Ruane, I’m a third year English Literature student who next year will be completing an LLM in International Law and Human Rights, though some may argue (mostly Adrian) that, most importantly, I will be one half of the Under Secretary General of Logistics for the 2021 MUN here at the University of Warwick! Over the past three years, I’ve increasingly directed my academic career in line with developments from the United Nations’ OHCHR, of which such passion has been further facilitated by Warwick UN Society and Warwick’s Centre for Human Rights in Practice. Having worked for LIMUN last year and organised Cambridge International IQ Schools sixth-form MUN conferences before, I’m beyond eager to bring you the conference that not only meets your expectations but dramatically exceeds them. I can’t wait to learn something from each and every one of you!
 
 P.S. Yes - WarMUN trumps all.
 
 Adrian
+    
+  </div>
+</div>
+
                                                            
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
