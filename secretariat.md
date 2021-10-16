@@ -4,11 +4,29 @@ title: Meet the Secretariat
 permalink: /warmun/secretariat/
 description:
 ---
-#### Secretary-General: Adrian Tam
-After a year away, it is my pleasure to welcome you all to the fourteenth WarMUN conference! Having been involved in past WarMUNs myself, I know what a great conference WarMUN can be. As Secretary-General, my aim is to make this conference as welcoming and fulfilling an experience as it can be. My team of secretariat members and I are working hard to ensure that this conference matches and exceeds your expectations. I hope that you enjoy your time with us over the weekend and have fun trying to solve the global issues facing the world, as well as meeting new and interesting people! I cannot wait to meet you all and give you the best conference experience we can!
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+  <img src="https://user-images.githubusercontent.com/55463665/137590786-4a47f3a7-0c30-49fd-af3d-dafbf1c6397b.jpg" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    <h4>Secretary-General: Adrian Tam</h4>
+    
+After a year away, it is my pleasure to welcome you all to the fourteenth WarMUN conference! Having been involved in past WarMUNs myself, I know what a great conference WarMUN can be. As Secretary-General, my aim is to make this conference as welcoming and fulfilling an experience as it can be. My team of secretariat members and I are working hard to ensure that this conference matches and exceeds your expectations. I hope that you enjoy your time with us over the weekend and have fun trying to solve the global issues facing the world, as well as meeting new and interesting people! I cannot wait to meet you all and give you the best conference experience we can!    
+    
+  </div>
+</div>
 
-#### Deputy-Secretary-General: Ishaan Vijai
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+  <img src="https://user-images.githubusercontent.com/55463665/137590882-6de3f0e9-dc97-4cf5-8388-3073b2e1135c.jpg" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    <h4>Deputy-Secretary-General: Ishaan Vijai</h4>
+    
 It is with great pride and honour that I welcome each and every one of you to WarMUN 2021! I'm a first-year Mathematics and Philosophy student from India with a deep interest in politics and justice systems. Knowing what WarMUN has in store this fall, I can assure you that at the end of these two days, each one of you will be enriched with a newfound interest in international affairs and political discourse. You will have the coveted opportunity of meeting and interacting with similarly focused individuals that share the same goal: use WarMUN as a forum for discussions and debates for the benefit of tomorrow, while also exploring your own interests. WarMUN is truly one of a kind, and I hope to see you there!
+    
+  </div>
+</div>
 
 #### Under-Secretary-General for Chairing: Ankit Mehta
 Greetings all, it is an honour to welcome you to WarMUN 2021 as the Under-Secretary-General of Chairing. I have always been interested in the relationships between the social, political, and finance spheres - I carry this fascination with me as an Accounting and Finance undergraduate at Warwick. Having participated in 11 MUNs in the Middle East, I have identified the determining factors of delegate success to be confidence and critical thinking. Therefore, I am excited to observe passionate debate and the formulation of astute resolutions during the committee sessions. We wish you the best of luck, let’s make the most of it!
@@ -20,9 +38,29 @@ It is my pleasure to welcome you all to the WarMUN 2021, finally in a physical f
 
 
 #### Under-Secretary-General for Outreach: Iris Bernheim
+Hello everyone! I am honoured to be this year’s Under-Secretary General for Outreach and Marketing. As a PPE finalist I have only recently discovered my interest for International Relations and International topics. We all went through hard times because of this pandemic, yet without it I would have never discovered my passion for international matters. The WarMUN 2021 team and I will hope that you will enjoy the conference and we cannot wait to welcome you from November 26th-28th!! 
 
 
-#### Under-Secretaries-General for Socials: Shaurya Dhar, Anavi Bagga
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+  <img src="https://user-images.githubusercontent.com/55463665/137592974-5b1f371a-a6e9-4f81-b5c7-222f0be483cf.jpg" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    <h4>Under-Secretaries-General for Socials: Shaurya Dhar, Anavi Bagga</h4>
+    
+Hi! I am Anavi, a 3rd year Management with Entrepreneurship student at the Warwick Business School. As USG Socials I am helping host a fun night out and a ball for our delegates, hope to see you there!
+    
+  </div>
+  
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+  <img src="{{ site.url }}/img/headshots/exec2021/ShaurExecPhoto.jpg"" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    
+Hi, I'm Shaurya Dhar, one of the USG Socials.I'm a third year management student and am an experienced MUNer. The conference is a brilliant way to broaden your knowledge on current and historical world affairs.Can't wait to see you all at socials that Anavi and I are planning for this conference!
+    
+  </div>
+</div>
 
 
 #### Under-Secretaries-General for Logistics: Jasmine Nasser, Keeley Ruane
@@ -31,6 +69,15 @@ Despite being new to the society myself, allow me to welcome you to the Warwick 
 P.S. Yes - WarMUN trumps all.
 
 Adrian
-
-#### Crisis Director: Nicholas Sim
+                                                           
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+  <img src="https://memegenerator.net/img/instances/64738335/see-you-later-alligator-in-a-while-crocodile.jpg" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    <h4>Crisis Director: Nicholas Sim</h4>
+    
 Nic is a 3rd year Politics and International Studies student with interests in national security, military analysis and intelligence studies. He also enjoys laughing at the meme-like nature of Malaysian politics and eating what his doctor calls "a questionable amount of unhealthy food"
+    
+  </div>
+</div>
