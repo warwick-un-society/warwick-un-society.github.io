@@ -46,7 +46,7 @@ Hello everyone! I am honoured to be this year’s Under-Secretary General for Ou
     <img src="https://user-images.githubusercontent.com/55463665/137592974-5b1f371a-a6e9-4f81-b5c7-222f0be483cf.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
-    <h4>Under-Secretaries-General for Socials: Shaurya Dhar, Anavi Bagga</h4>
+    <h4>Under-Secretaries-General for Socials and Events: Shaurya Dhar, Anavi Bagga</h4>
     
 Hi! I am Anavi, a 3rd year Management with Entrepreneurship student at the Warwick Business School. As USG Socials I am helping host a fun night out and a ball for our delegates, hope to see you there!
     
