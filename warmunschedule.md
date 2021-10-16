@@ -30,7 +30,7 @@ description:
   <tr><td class="times">09:00-11:00</td><td>Committee session VI</td></tr>
   <tr><td>11:00-11:15</td><td>Break</td></tr>
   <tr><td>11:15-12:30</td><td>Committee session VII</td></tr>
-  <tr><td>12:30-14:00</td><td>Lunch</td></tr>
+  <tr><td>12:30-14:00</td><td>Lunch break</td></tr>
   <tr><td>14:00-16:00</td><td>Committee session VIII</td></tr>
   <tr><td>16:00-17:30</td><td>Closing ceremony and awards</td></tr>
 </table>
