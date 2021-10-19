@@ -6,9 +6,7 @@ description:
 ---
 
 ### Apply as a Chair of a committee:
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSe-bIFiZBsxYjqP-6WkfPhbbnn9nUOjEDALKtxYpMNpQFG9gA/viewform?usp=sf_link"> Using this Google form </a>
-
-Chairing applications end on Sunday 17th October - sign up soon if you're interested!
+Charing applications have closed - however, we would still love for you to take part in our conference! Keep on the lookout for delegate applications coming soon!
 
 ### Apply as a delegate:
 Fees: £15 Conference, £27 Social pack
