@@ -43,7 +43,16 @@ It is my pleasure to welcome you all to the WarMUN 2021, finally in a physical f
   </div>
 </div>
 
-#### Under-Secretary-General for Finance: Haroon Khan
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+  <img src="{{ site.url }}/img/headshots/exec2021/HaroonExecPhoto.jpg" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    <h4>Under-Secretary-General for Finance: Haroon Khan</h4>
+    
+Haroon is a second-year Accounting and Finance student who is also the treasurer and conference manager of the Warwick UN Society. He enjoys attending society events as well as participating in Model UN conferences around the UK and meeting new people. As USG for Finance, he looks forward to making WarMUN 2021 the best it can be and ensuring that everyone has a great Model UN experience.
+  </div>
+</div>
 
 
 #### Under-Secretary-General for Outreach: Iris Bernheim
