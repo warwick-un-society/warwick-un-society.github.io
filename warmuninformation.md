@@ -19,12 +19,13 @@ To find out more about our conference, check out these useful pages below:
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="https://user-images.githubusercontent.com/55463665/137590786-4a47f3a7-0c30-49fd-af3d-dafbf1c6397b.jpg" style="width:60%;">
+  <img src="https://user-images.githubusercontent.com/55463665/137590786-4a47f3a7-0c30-49fd-af3d-dafbf1c6397b.jpg" style="width:80%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Message from the Secretary-General:</h4>
     
 After a year away, it is my pleasure to welcome you all to the fourteenth WarMUN conference! Having been involved in past WarMUNs myself, I know what a great conference WarMUN can be. As Secretary-General, my aim is to make this conference as welcoming and fulfilling an experience as it can be. My team of secretariat members and I are working hard to ensure that this conference matches and exceeds your expectations. I hope that you enjoy your time with us over the weekend and have fun trying to solve the global issues facing the world, as well as meeting new and interesting people! I cannot wait to meet you all and give you the best conference experience we can!
+    
     
     <a href="http://warwickun.org/warmun/secretariat"><button style="background-color:#008CBA;border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px;">Meet the Secretariat</button></a>
     
