@@ -11,7 +11,7 @@ description:
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Secretary-General: Adrian Tam</h4>
     
-After a year away, it is my pleasure to welcome you all to the fourteenth WarMUN conference! Having been involved in past WarMUNs myself, I know what a great conference WarMUN can be. As Secretary-General, my aim is to make this conference as welcoming and fulfilling an experience as it can be. My team of secretariat members and I are working hard to ensure that this conference matches and exceeds your expectations. I hope that you enjoy your time with us over the weekend and have fun trying to solve the global issues facing the world, as well as meeting new and interesting people! I cannot wait to meet you all and give you the best conference experience we can!    
+Adrian is a final-year Politics, Philosophy and Law student at the University of Warwick, serving as the Secretary-General for WarMUN 2021. An avid Star Wars fan, he is capable of holding far-reaching and perhaps rather boring conversations on Star Wars lore and their wider implications on the galaxy far, far away... as participants of the Warwick UN Society Star Wars Crisis will know. Adrian looks forward to welcoming delegates to the new and improved WarMUN and hopes that everyone will have a great weekend.
     
   </div>
 </div>
