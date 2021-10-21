@@ -17,6 +17,20 @@ To find out more about our conference, check out these useful pages below:
 | <a href="http://warwickun.org/warmun/timetable"> ![TIMETABLE](https://user-images.githubusercontent.com/55463665/136009977-f3e40ca4-ec95-4240-bb6b-a1952acadec6.jpg) </a> | <a href="http://warwickun.org/warmun/faq"> ![FAQ](https://user-images.githubusercontent.com/55463665/136009992-0c57db9a-b9d3-4d64-8007-5ef19e56399f.jpg) </a> |
 | <a href="http://warwickun.org/warmun/socials"> ![SOCIALS](https://user-images.githubusercontent.com/55463665/136006765-63ff283c-dcfc-47b7-bbd5-e59b33efd2f6.jpg) </a> | <a href="http://warwickun.org/warmun/policies"> ![POLICIES AND STATEMENTS](https://user-images.githubusercontent.com/55463665/136006582-c8bfac71-509a-4493-9bfa-606f4a2cd7ae.jpg) </a> |
 
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+  <img src="https://user-images.githubusercontent.com/55463665/137590786-4a47f3a7-0c30-49fd-af3d-dafbf1c6397b.jpg" style="width:60%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    <h4>Message from the Secretary-General:</h4>
+    
+After a year away, it is my pleasure to welcome you all to the fourteenth WarMUN conference! Having been involved in past WarMUNs myself, I know what a great conference WarMUN can be. As Secretary-General, my aim is to make this conference as welcoming and fulfilling an experience as it can be. My team of secretariat members and I are working hard to ensure that this conference matches and exceeds your expectations. I hope that you enjoy your time with us over the weekend and have fun trying to solve the global issues facing the world, as well as meeting new and interesting people! I cannot wait to meet you all and give you the best conference experience we can!
+    
+    <a href="http://warwickun.org/warmun/secretariat"><button style="background-color:#008CBA;border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px;">Meet the Secretariat</button></a>
+    
+  </div>
+</div>
+
 ### Getting to the conference:
 Delegates can get to the University of Warwick by taking the Stagecoach U12 or National Express 11 bus from Coventry Rail Station, alighting at the University of Warwick Bus Interchange. Delegate registration will take place at the Oculus on the University of Warwick main campus. Please see the embedded Google Map location for more detail:
 
