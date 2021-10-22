@@ -22,7 +22,7 @@ Once we receive your delegate application, we will get in touch with you to arra
 Committees are in the process of being finalised - we will be updating you soon!
 
 #### What are the rules of procedure of the conference?
-WarMUN 2021 will be using the HMUN rules of procedure. You can find the rules of procedure handbook <a href="https://www.yumpu.com/en/document/read/22180426/hmun-rules-of-procedure-harvard-model-united-nations"> here </a>.
+WarMUN 2021 will be using the HMUN rules of procedure. You can find the rules of procedure handbook <a href="https://www.yumpu.com/en/document/read/22180426/hmun-rules-of-procedure-harvard-model-united-nations">here</a>.
 
 #### Do I register as a single delegate or delegation?
 Either - single delegate if applying only for yourself, lead delegate if applying for yourself and others in your university. 
@@ -40,7 +40,7 @@ You will need to organise your own accomodation - we reccomend staying in a loca
 We will not be providing any food apart from snacks during breaks. There are however plenty of sites on Warwick campus for affordable food and drink, which you can find in the handbook.
 
 #### How do I know where to go and when?
-The opening and closing ceremonies will be held in the two lecture theatres in the Oculus building. Committee room locations will be avaliable on the committee page. You can find your allocated committee <a href="http://warwickun.org/warmun/committees">here</a>.
+The opening and closing ceremonies will be held in the two lecture theatres in the Oculus building. Committee room locations will be avaliable on the committee page. You can find details for your allocated committee <a href="http://warwickun.org/warmun/committees">here</a>.
 
 #### When will I receive my cabinet allocation?
 We will confirm your attendance as soon as payment is registered. We aim to allocate cabinet positions as soon as possible.
