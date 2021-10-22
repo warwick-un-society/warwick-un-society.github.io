@@ -17,8 +17,8 @@ Due to the social distancing measures in place, our events will take place onlin
     <h4>Careers in the UN: Panel Discussion with Former UN Civil Servants</h4>
     
 Hey guys! We are proud to announce that we have partnered with BAFUNCS, WCS, and WWCS to finally have our first official panel discussion with our three guest speakers who are former United Nations Civil Servants. This is going to be an interesting event if you have always wanted to know what it’s like to have worked as United Nations member. Feel free to join the online meeting to ask questions about our guests careers (for example, how to apply) or even their thoughts on current global matters (for example, climate change) in the comfort of your own room. We hope to see you through our screens on Thursday!
-<br>
-You can find the video recording of the event by clicking <a href="https://drive.google.com/file/d/1noZIA_wB4B6vQ0BRy6z6-W9qDTgLAQJq/view?usp=sharing">this link</a>.
+<br><br>
+You can find the video recording of the event by clicking on <a href="https://drive.google.com/file/d/1noZIA_wB4B6vQ0BRy6z6-W9qDTgLAQJq/view?usp=sharing">this link</a>.
     
   </div>
 </div>
