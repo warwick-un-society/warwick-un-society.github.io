@@ -31,7 +31,7 @@ Either - single delegate if applying only for yourself, lead delegate if applyin
 Delegate applications are opening soon! Keep an eye on our social media pages to get the latest news!
 
 #### Is there a social?
-Yes - 2! A drinks social on Friday 26th and our Ball on Saturday 27th. To attend these you must buy the social pack which is £25.
+Yes - 2! A drinks social on Friday 26th and our Ball on Saturday 27th. To attend these you must buy the social pack which is £27.
 
 #### I’ll need a place to stay at the conference, what do I do?
 You will need to organise your own accomodation - we reccomend staying in a location close to the University, or where transport to the University is easily accessible. Possible locations where you might stay include Canley and Leamington Spa. The University also operates a hotel located within the campus.
