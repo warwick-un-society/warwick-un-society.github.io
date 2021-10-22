@@ -28,9 +28,17 @@ It is with great pride and honour that I welcome each and every one of you to Wa
   </div>
 </div>
 
-#### Under-Secretary-General for Chairing: Ankit Mehta
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+  <img src="https://user-images.githubusercontent.com/55463665/138497158-201f8bca-337e-4d80-af49-e05a6ab1b9e7.jpg" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    <h4>Under-Secretary-General for Chairing: Ankit Mehta</h4>
+    
 Greetings all, it is a pleasure to welcome you to WarMUN 2021 as the Under-Secretary-General of Chairing. I have always been interested in the relationships between the social, political, and finance spheres- I carry this fascination with me as an Accounting and Finance undergraduate at Warwick. In 2020, I was honoured to meet Ban Ki-moon, the eighth Secretary-General of the United Nations. Upon asking him the determining traits of delegate success, he informed me that confidence, critical thinking, and candour are amongst the most appreciated qualities in a diplomat. Therefore, I am excited to observe passionate debate and the formulation of astute resolutions during the committee sessions. We wish you the best of luck, let’s make the most of it!
-
+    
+  </div>
+</div>
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
