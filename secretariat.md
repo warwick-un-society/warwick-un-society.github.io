@@ -105,7 +105,7 @@ Hi everyone, I am excited to welcome you all to this year's Warwick Model United
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-    <img src="" style="width:100%;">
+    <img src="https://user-images.githubusercontent.com/55463665/138513800-7d6954ca-02a5-461e-a704-3bdf1ca6c639.jpg" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     
