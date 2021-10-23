@@ -8,4 +8,5 @@ description:
 ## Chairs:
 <b>Topics:
   1. Addressing medical inequality, significant price differences of the same drugs in different countries
-  2. Combatting misinformation and disinformation regarding medical professionals and public health measures</b>
+  2. Combatting misinformation and disinformation regarding medical professionals and public health measures
+</b>
