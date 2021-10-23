@@ -11,6 +11,10 @@ The world as we know it today seems unrecognisable compared to what it was less 
 Our committee selections and their topics aim to reflect this changing reality, challenging delegates to find new and innovative ways to confront these global issues, and make a positive change on the world.
 
 ## Committees:
+<a href="http://warwickun.org/warmun/committees/who">![who](https://user-images.githubusercontent.com/55463665/138565660-1d1d3254-c93b-48fb-a93f-f6c1239bd527.jpg)</a>
+<a href="http://warwickun.org/warmun/committees/ecosoc">![ecosoc](https://user-images.githubusercontent.com/55463665/138565663-005d08a9-c6c6-4c5d-ba4c-f4da36ac7195.jpg)</a>
+<a href="http://warwickun.org/warmun/committees/unsc">![unsc](https://user-images.githubusercontent.com/55463665/138565665-b155a203-7bf3-452e-b92e-50c679c462bd.jpg)</a>
+<a href="http://warwickun.org/warmun/committees/disec">![disec](https://user-images.githubusercontent.com/55463665/138565667-86fe0bd4-c655-4f06-9476-ee08338a8059.jpg)</a>
 <a href="http://warwickun.org/warmun/committees/crisis"> ![CRISIS](https://user-images.githubusercontent.com/55463665/137209939-2677d73b-99ae-42a1-ba9b-9223bea776fe.jpg) </a>
 
 
