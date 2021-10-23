@@ -8,4 +8,5 @@ description:
 ## Chairs:
 <b>Topics:
   1. Discussion for a relationship 'reset' between Security Council members and their allies with 'rogue states'
-  2. Setting new international standards for inter-state weapons trading</b>
+  2. Setting new international standards for inter-state weapons trading
+</b>
