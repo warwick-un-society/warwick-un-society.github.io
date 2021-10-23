@@ -1,6 +1,6 @@
 ---
 layout: default
-title: General Assembly First Committee - DISEC
+title: General Assembly First Committee DISEC
 permalink: /warmun/committees/disec
 description:
 ---
