@@ -12,7 +12,7 @@ Charing applications have closed - however, we would still love for you to take 
 Fees: £15 Conference, £27 Social pack
 
 You can find our confirmed list of committees and topics here:
-<br>
+<br><br>
 <a href="http://warwickun.org/warmun/committees"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Committees</button></a>
 
 Delegate applications are now open! To apply, fill out and submit the Google form below:
