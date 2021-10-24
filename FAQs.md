@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frequently Answered Questions
+title: Frequently Asked Questions
 permalink: /faqs/
 ---
 #### How do I join Warwick UN Society?
