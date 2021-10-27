@@ -5,7 +5,7 @@ permalink: /warmun/committees/ecosoc
 description:
 ---
 ![ecosoc](https://user-images.githubusercontent.com/55463665/138573721-f58ba169-2b0f-40ee-8524-397692d70660.jpg)
-## Chairs:
+## Chairs: Chia Gan, Ramiz Mehdiyev
 <b>Topics:</b>
 <br>
   1. Addressing the monopolisaiton of global tech markets, the break up of tech giants
