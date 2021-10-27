@@ -9,4 +9,4 @@ description:
 <b>Topics:</b>
 <br>
   1. Addressing the monopolisaiton of global tech markets, the break up of tech giants
-  2. Increasing access to technical and vocational training and education in Latin America and the Carribean
+  2. Increasing access to technical and vocational education in Latin America and the Carribean
