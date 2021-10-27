@@ -8,5 +8,5 @@ description:
 ## Chairs:
 <b>Topics:</b>
   1. Disengagement by permanent member states in long-term military interventions
-  2. Addressing the increasing cybersecurity threat presented by non-state actors to essential national infrastructure
+  2. Addressing the increasing cybersecurity threat presented by non-state actors to national infrastructure
 
