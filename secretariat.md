@@ -63,10 +63,16 @@ Haroon is a second-year Accounting and Finance student who is also the treasurer
   </div>
 </div>
 
-
-#### Under-Secretary-General for Outreach: Iris Bernheim
-Hello everyone! I am honoured to be this year’s Under-Secretary General for Outreach and Marketing. As a PPE finalist I have only recently discovered my interest for International Relations and International topics. We all went through hard times because of this pandemic, yet without it I would have never discovered my passion for international matters. The WarMUN 2021 team and I hope that you will enjoy the conference and we cannot wait to welcome you from November 26th-28th!! 
-
+<div class="grid-x">
+  <div class="cell small-12 medium-4" style="padding:1rem;">
+  <img src="https://user-images.githubusercontent.com/55463665/139291067-a77b07d5-e82f-4689-a458-31809b78dcaa.jpg" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-8" style="padding:1rem;">
+    <h4>Under-Secretary-General for Outreach: Iris Bernheim</h4>
+    
+Hello everyone! I am honoured to be this year’s Under-Secretary General for Outreach and Marketing. As a PPE finalist I have only recently discovered my interest for International Relations and International topics. We all went through hard times because of this pandemic, yet without it I would have never discovered my passion for international matters. The WarMUN 2021 team and I hope that you will enjoy the conference and we cannot wait to welcome you from November 26th-28th!!
+  </div>
+</div>
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
