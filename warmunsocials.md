@@ -12,6 +12,6 @@ Our first night will be a disco night in Neon, in nearby Leamington Spa. Note th
 
 Our second night will be a formal ball at the Chesford Grange Hotel, also located in Leamington Spa. Delegates can look forward to a two-course meal and entertainment! Delegates of all ages are welcome to join us at the ball!
 
-Our social pack registration deadline ends on the 7th of November, so please hurry if you're interested!
+Our social pack registration deadline ends on the 10th of November, or when we reach capacity, so please hurry if you're interested!
 
 To participate in our social events, be sure to purchase our Social Pack when you sign up for the conference!
