@@ -16,7 +16,7 @@ We are committed to ensuring the safety of our delegates and staff, and as such 
 
 #### How much is the conference fee?
 £15. There is also a social pack available, for which the fee is £27.
-Once we receive your delegate application, we will get in touch with you to arrange the payment of the conference fee, which should take the form of a bank transfer.
+Once we receive your delegate application, we will get in touch with you to arrange the payment of the conference fee, which will be on the Warwick Student Union website.
 
 #### What committees will there be?
 Committees are in the process of being finalised - we will be updating you soon!
