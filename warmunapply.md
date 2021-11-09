@@ -9,7 +9,7 @@ description:
 Charing applications have closed - however, we would still love for you to take part in our conference! Participate in our conference by signing up as a delegate below.
 
 ### Apply as a delegate:
-Fees: £15 Conference, £27 Social pack
+Fees: £15 Conference
 
 You can find our confirmed list of committees and topics here:
 <br><br>
