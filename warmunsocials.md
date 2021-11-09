@@ -15,3 +15,5 @@ Our second night will be a formal ball at the Chesford Grange Hotel, also locate
 Our social pack registration deadline ends on the 10th of November, or when we reach capacity, so please hurry if you're interested!
 
 To participate in our social events, be sure to purchase our Social Pack when you sign up for the conference!
+
+##Unfortunately we have reached capacity for our social events and sales have ceased - we apologise for the inconvenience!
