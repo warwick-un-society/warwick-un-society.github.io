@@ -17,4 +17,8 @@ You can find our confirmed list of committees and topics here:
 
 Delegate applications are now open! To apply, fill out and submit the Google form below:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkkknfgVCMinxe7cO-nLxozQ3Tk-TVBzkI-Ge0XFWtv-1Gmw/viewform?embedded=true" width="640" height="2694" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkkknfgVCMinxe7cO-nLxozQ3Tk-TVBzkI-Ge0XFWtv-1Gmw/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+Once we have given you a provisional allocation, you can secure your place by purchasing a ticket here:
+<br>
+https://www.warwicksu.com/venues-events/events/4260/21928/
