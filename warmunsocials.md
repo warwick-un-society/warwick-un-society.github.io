@@ -16,4 +16,6 @@ Our social pack registration deadline ends on the 10th of November, or when we r
 
 To participate in our social events, be sure to purchase our Social Pack when you sign up for the conference!
 
+Once we have confirmed your place with you, kindly fill out the dietary form and buy your social ticket at: https://www.warwicksu.com/venues-events/events/4260/21941/
+
 ## Unfortunately we have reached capacity for our social events and sales have ceased - we apologise for the inconvenience!
