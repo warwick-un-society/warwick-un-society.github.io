@@ -11,7 +11,7 @@ description:
 
 The importance of addressing inequalities in the quality and price of medicine has never been greater for global development. The large difference in the relative price of lifesaving drugs across the world highlights that a person’s location/nationality continues to be a significant factor determining their access to necessary treatment.
 
-2. Combatting misinformation and disinformation regarding medical professionals and public health measures
+  2. Combatting misinformation and disinformation regarding medical professionals and public health measures
 
 The COVID-19 pandemic has only exacerbated the crisis of misinformation and disinformation we are in. The mass feeling of distrust internationally is felt by all as rumours are allowed to thrive in the media. The lack of clarity when it comes to public health measures has led to a detachment from medical professionals, thus setting back global development.
 <br><br>
