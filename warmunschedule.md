@@ -8,8 +8,8 @@ description:
 #### Friday 26th November
 <table>
   <tr><td class="times">13:00 - 15:00</td><td> Delegate registration</td></tr>
-  <tr><td>15:00 - 17:00</td><td>Opening ceremony</td></tr>
-  <tr><td>17:00 - 18:30</td><td>Committee session I</td></tr>
+  <tr><td>15:00 - 16:00</td><td>Opening ceremony</td></tr>
+  <tr><td>16:00 - 18:30</td><td>Committee session I</td></tr>
   <tr><td>20:00 - 22:00</td><td>Social I</td></tr>
 </table>
 
