@@ -16,3 +16,5 @@ It’s been 70 years since the Air Nomads were wiped from existence and with the
 The Fire Nation is continuing their expansion into the Earth Kingdom, on their way to world domination. The Coalition plans to finally strike back against the Fire Nation and restore balance to the world.
 
 <b> Set in the World of Avatar: The Last Airbender </b>
+<br><br>
+<a href="https://drive.google.com/file/d/1R7XUj6deBogGOS-ZI7WhYnutC7_VAyM2/view?usp=sharing"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Study guide</button></a>
