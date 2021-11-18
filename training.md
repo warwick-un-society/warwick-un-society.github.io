@@ -10,6 +10,6 @@ Besides the society’s weekly meetings, Training also organizes termly UN / Cri
 ### Training resources
 Model UN overview
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.warwick-un-society.github.io/Training Week 1.pptx]' width='100%' height='600px' frameborder='0'>
-<br>
+<br><br>
 Sample position paper
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.warwick-un-society.github.io/Position Papers USA.docx]' width='100%' height='600px' frameborder='0'>
