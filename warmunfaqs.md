@@ -37,7 +37,7 @@ Yes - 2! A drinks social on Friday 26th and our Ball on Saturday 27th. To attend
 You will need to organise your own accomodation - we reccomend staying in a location close to the University, or where transport to the University is easily accessible. Possible locations where you might stay include Canley and Leamington Spa. The University also operates a hotel located within the campus.
 
 #### What food arrangements will we have at the conference?
-We will not be providing any food apart from snacks during breaks. There are however plenty of sites on Warwick campus for affordable food and drink, which you can find in the handbook.
+We will not be providing any food apart from snacks during breaks. There are however plenty of sites on Warwick campus for affordable food and drink, which will be announced during the conference.
 
 #### How do I know where to go and when?
 The opening and closing ceremonies will be held in the two lecture theatres in the Oculus building. Committee room locations will be avaliable on the committee page. You can find details for your allocated committee <a href="http://warwickun.org/warmun/committees">here</a>.
