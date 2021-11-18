@@ -10,8 +10,8 @@ Besides the society’s weekly meetings, Training also organizes termly UN / Cri
 ### Training resources
 Model UN overview
 <br>
-<iframe src="https://onedrive.live.com/embed?cid=EC8B6D136BEC7435&amp;resid=EC8B6D136BEC7435%214445&amp;authkey=AAi4ZFtSyY-s8Dw&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=EC8B6D136BEC7435&amp;resid=EC8B6D136BEC7435%214445&amp;authkey=AAi4ZFtSyY-s8Dw&amp;em=2&amp;wdAr=1.7777777777777777" width="700px" height="442px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <br><br>
 Sample position paper
 <br>  
-<iframe src="https://onedrive.live.com/embed?cid=EC8B6D136BEC7435&amp;resid=EC8B6D136BEC7435%214448&amp;authkey=ANkQVvNAEaoPamY&amp;em=2" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=EC8B6D136BEC7435&amp;resid=EC8B6D136BEC7435%214448&amp;authkey=ANkQVvNAEaoPamY&amp;em=2" width="952px" height="576px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
