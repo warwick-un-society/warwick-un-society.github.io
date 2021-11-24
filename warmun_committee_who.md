@@ -6,6 +6,9 @@ description:
 ---
 ![who](https://user-images.githubusercontent.com/55463665/138574210-5c08d2ad-7f04-48cd-b2fb-6ded24d1b04c.jpg)
 ## Chairs: Henry de Oliveira, Tabbie McLeod-Clarke
+
+Committee rooms: Friday S0.13, Saturday-Sunday S0.11
+
 <b>Topics:</b>
   1. Addressing medicinal inequality - price disparities
 
