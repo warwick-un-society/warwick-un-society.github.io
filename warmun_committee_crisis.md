@@ -7,6 +7,8 @@ description:
 ![CRISIS](https://user-images.githubusercontent.com/55463665/137209402-e883cceb-ea83-4ff4-b403-de2d38ef0d2f.jpg)
 ## Crisis Director: Nicholas Sim
 
+Committee rooms: Fire Nation S0.18, Coalition S0.19
+
 Long ago, the four nations lived together in harmony. Then everything changed when the Fire Nation attacked.
 
 Only the Avatar, master of all four elements, could stop them. But when the world needed him most, he vanished.
