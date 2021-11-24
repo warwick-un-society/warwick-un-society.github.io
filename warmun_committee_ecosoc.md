@@ -6,6 +6,9 @@ description:
 ---
 ![ecosoc](https://user-images.githubusercontent.com/55463665/138573721-f58ba169-2b0f-40ee-8524-397692d70660.jpg)
 ## Chairs: Chia Gan, Ramiz Mehdiyev
+
+Committee room: S0.10
+
 <b>Topics:</b>
 <br>
   1. Addressing the monopolisation of global tech markets, the break up of tech giants
