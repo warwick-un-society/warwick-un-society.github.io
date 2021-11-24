@@ -5,7 +5,7 @@ permalink: /warmun/committees/disec
 description:
 ---
 ![disec](https://user-images.githubusercontent.com/55463665/138574150-7ab72d94-1100-48cf-b539-6a22d89993bc.jpg)
-## Chairs: Gareth Pang, Elena Baciu
+## Chairs: Gareth Pang, Yusif Suleymanov
 <b>Topics:</b>
   1. Discussion for a relationship 'reset' between Security Council members and their allies with 'rogue states'
 
