@@ -7,9 +7,11 @@ description:
 
 ![warmun](https://user-images.githubusercontent.com/55463665/135881403-61bc9af4-7ef4-4f5f-9ead-2c4714d1a77a.jpeg)
 
-After a year away, the Warwick United Nations Society is proud to announce the return of our annual Model UN conference, to be held on 26-28 of November 2021. Be sure to join us for a weekend of fun and exciting conferencing, hosted at the Warwick University campus, as well as our fun nights out at nearby Leamington Spa!
+## WarMUN 2021 is officially over! Thank you all for joining us for a great conference - we hope to see you again next year!
 
-To find out more about our conference, check out these useful pages below:
+Check out our conference pictures:
+
+<a href="https://drive.google.com/drive/folders/1Gezu8IQ_XpHXq50iEt6cOmHXRHLzWnvH?usp=sharing"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Conference Pictures!</button></a>
   
 | <!-- --> | <!-- --> |
 | :----: | :----: |
