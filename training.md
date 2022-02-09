@@ -11,9 +11,9 @@ Besides the society’s weekly meetings, Training also organizes termly UN / Cri
 Model UN overview
 <br>
 <iframe src="https://onedrive.live.com/embed?cid=EC8B6D136BEC7435&amp;resid=EC8B6D136BEC7435%214445&amp;authkey=AAi4ZFtSyY-s8Dw&amp;em=2&amp;wdAr=1.7777777777777777" width="700px" height="442px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-https://docs.google.com/presentation/d/1015DoOyEXsAzuG691jkOo1RBAMgRDKst0xMIahjT0QY/edit?usp=sharing
+<a href="https://docs.google.com/presentation/d/1015DoOyEXsAzuG691jkOo1RBAMgRDKst0xMIahjT0QY/edit?usp=sharing"> Link </a>
 <br><br>
 Sample position paper
 <br>  
 <iframe src="https://onedrive.live.com/embed?cid=EC8B6D136BEC7435&amp;resid=EC8B6D136BEC7435%214448&amp;authkey=ANkQVvNAEaoPamY&amp;em=2" width="952px" height="576px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-https://docs.google.com/document/d/110WUjXLdOgohfdFyHXHArRYkvbdC8hRQ/edit?usp=sharing&ouid=112647239400974822408&rtpof=true&sd=true
+<a href="https://docs.google.com/document/d/110WUjXLdOgohfdFyHXHArRYkvbdC8hRQ/edit?usp=sharing&ouid=112647239400974822408&rtpof=true&sd=true"> Link </a>
