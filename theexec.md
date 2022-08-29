@@ -6,7 +6,7 @@ description:
 ---
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2022/50D2D261-20AE-4FC6-B39B-7EB51E1FA30C - Rafig Niftaliyev.png" style="width:100%;">
+  <img src="{{ site.url }}/img/headshots/exec2022/50D2D261-20AE-4FC6-B39B-7EB51E1FA30C - Rafig Niftaliyev.png" style="width:50%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Rafig Niftaliyev - President</h4>
@@ -20,7 +20,7 @@ Rafig is a 2nd year Philosophy, Politics and Economics student who has been a pa
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2022/IMG_9176 - Tanaya Soni.jpeg" style="width:100%;">
+  <img src="{{ site.url }}/img/headshots/exec2022/IMG_9176 - Tanaya Soni.jpeg" style="width:50%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Tanaya Soni - Vice President</h4>
@@ -32,7 +32,7 @@ Tanaya is an enthusiast who loves knowing how the world connects through interna
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2022/Ruilang Qin photo 20220817 - Ruilang Qin.jpeg" style="width:100%;">
+  <img src="{{ site.url }}/img/headshots/exec2022/Ruilang Qin photo 20220817 - Ruilang Qin.jpeg" style="width:50%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Ruilang Qin - Treasurer</h4>
@@ -44,7 +44,7 @@ Ruilang is a second year Economics student, who is enthusiastic in politics and 
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2022/IMG_20220410_155557 - Robert Sunnucks.jpg" style="width:100%;">  
+  <img src="{{ site.url }}/img/headshots/exec2022/IMG_20220410_155557 - Robert Sunnucks.jpg" style="width:50%;">  
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Rob Sunnucks - Training Officer</h4>
@@ -57,7 +57,7 @@ Rob has been doing MUN for 5 years now, and in his time at university, has ran m
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2022/274B9AAB-A696-4485-9A71-1C5E9A08F4CA - Chingiz Abidov.jpeg" style="width:100%;">
+  <img src="{{ site.url }}/img/headshots/exec2022/274B9AAB-A696-4485-9A71-1C5E9A08F4CA - Chingiz Abidov.jpeg" style="width:50%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Chingiz Abidov - Conference Manager</h4>
@@ -70,7 +70,7 @@ Chingiz is a enthusiast of modern day technology but he is also interested in po
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2022/Screenshot_20220308-174025 - Warwick UN.jpg" style="width:100%;">
+  <img src="{{ site.url }}/img/headshots/exec2022/Screenshot_20220308-174025 - Warwick UN.jpg" style="width:50%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Annabel Duport - Publicity Officer</h4>
@@ -81,7 +81,7 @@ Chingiz is a enthusiast of modern day technology but he is also interested in po
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2022/C1FAF750-BC0C-4E40-8247-3E7E975DC48F - Kenza oulammou.jpeg" style="width:100%;">
+  <img src="{{ site.url }}/img/headshots/exec2022/C1FAF750-BC0C-4E40-8247-3E7E975DC48F - Kenza oulammou.jpeg" style="width:50%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Kenza Oulammou - Social and Welfare Officer</h4>
@@ -92,7 +92,7 @@ Chingiz is a enthusiast of modern day technology but he is also interested in po
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/logo/69561466_486355568615947_3271344909960871936_n.png" style="width:100%;">
+  <img src="{{ site.url }}/img/logo/69561466_486355568615947_3271344909960871936_n.png" style="width:50%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Alizeh Khan - Academic Officer</h4>
