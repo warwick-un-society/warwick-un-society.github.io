@@ -6,7 +6,7 @@ description:
 ---
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2022/50D2D261-20AE-4FC6-B39B-7EB51E1FA30C - Rafig Niftaliyev.png" style="width:50%;">
+  <img src="../../img/headshots/exec2022/50D2D261-20AE-4FC6-B39B-7EB51E1FA30C - Rafig Niftaliyev.png" style="width:50%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Rafig Niftaliyev - President</h4>
