@@ -9,6 +9,7 @@ description:
 
 ![WARMUN](https://warwickun.org/img/warmunpictures/WARMUN2022.png)
 
+
   
 | <!-- --> | <!-- --> |
 | :----: | :----: |
@@ -18,7 +19,7 @@ description:
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="https://user-images.githubusercontent.com/55463665/137590786-4a47f3a7-0c30-49fd-af3d-dafbf1c6397b.jpg" style="width:100%;">
+  <img src="https://warwickun.org/img/headshots/exec2022/50D2D261-20AE-4FC6-B39B-7EB51E1FA30C%20-%20Rafig%20Niftaliyev.png" style="width:100%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Message from the Secretary-General:</h4>
