@@ -4,12 +4,9 @@ title: Committees
 permalink: /warmun/committees/
 description:
 ---
->## Age of Uncertainty: Rebuilding Trust, Restoring Hope
+>## A World Without War: Peacebuilding and Conflict Resolution
 
-The world as we know it today seems unrecognisable compared to what it was less than two years ago. Successive crises have increased tension around the world and has weakened our trust in each other. From the global response to the COVID-19 pandemic, to the climate crisis, and to the recent political and security upheavals in Afghanistan, it is essential for the United Nations to tackle these enduring and emerging problems and to restore peoples' trust in global cooperation and diplomacy.
-
-Our committee selections and their topics aim to reflect this changing reality, challenging delegates to find new and innovative ways to confront these global issues, and make a positive change on the world.
-
+The world as we know it has been rapidly changing over the last few years. Crises have arisen around the world, leading to increased breakdowns in diplomacy and the failure of nations to trust one another. The COVID-19 pandemic hit the world hard, the climate crisis has continued to escalate, war has broken out in Europe, conflict remains unresolved in the Middle East and beyond, and inflation is continuing to grow and devastate economies. The member states of the United Nations must step up to the plate and find solutions to the issues ahead of us and restore the world to one of diplomacy and cooperation rather than a world of conflict and fear.
 
 
 ## Committees:
