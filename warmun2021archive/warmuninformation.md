@@ -5,6 +5,8 @@ permalink: /warmun/
 description:
 ---
 
+![WARMUN](https://warwickun.org/img/warmunpictures/WarMUN 2022 (1).png)
+
 ## WarMUN 2021 is officially over! Thank you all for joining us for a great conference - we hope to see you again next year!
 
 Check out our conference pictures:
