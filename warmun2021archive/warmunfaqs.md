@@ -5,11 +5,11 @@ permalink: /warmun/faq/
 description:
 ---
 
-#### When/where is WARMUN 2021?
-Warwick University campus, 1pm 26nd to 5:30pm 28th November. Registration is 1pm on 26nd November, opening ceremony commences at 3pm.
+#### When/where is WARMUN 2022?
+Warwick University campus, 25nd to 27th November. See <a href="http://warwickun.org/warmun/timetable">timetable</a> for more information regarding timings.
 
 #### Will this be an in-person conference?
-Yes - after a year away due to the COVID-19 pandemic, we are proud to announce that our conference will be <b> in-person </b> as normal!
+Yes - we are proud to announce that our conference will be <b> in-person </b> as normal!
 
 #### How will the conference be affected by COVID-19?
 We are committed to ensuring the safety of our delegates and staff, and as such are following Unviersity and UK Government guidlines throughout. Please refer to our <a href="http://warwickun.org/warmun/policies"> Policies and Statements </a> page for more information on how we plan to keep you safe.
@@ -19,10 +19,10 @@ We are committed to ensuring the safety of our delegates and staff, and as such 
 Once we receive your delegate application, we will get in touch with you to arrange the payment of the conference fee, which will be on the Warwick Student Union website.
 
 #### What committees will there be?
-Committees are in the process of being finalised - we will be updating you soon!
+Committees are in the process of being finalised - we will be updating you soon! Keep an eye out on our <a href="http://warwickun.org/warmun/committees">Committees</a> page for details.
 
 #### What are the rules of procedure of the conference?
-WarMUN 2021 will be using the HMUN rules of procedure. You can find the rules of procedure handbook <a href="https://www.yumpu.com/en/document/read/22180426/hmun-rules-of-procedure-harvard-model-united-nations">here</a>.
+WarMUN 2022 will be using the HMUN rules of procedure. You can find the rules of procedure handbook <a href="https://www.yumpu.com/en/document/read/22180426/hmun-rules-of-procedure-harvard-model-united-nations">here</a>.
 
 #### Do I register as a single delegate or delegation?
 Either - single delegate if applying only for yourself, lead delegate if applying for yourself and others in your university. 
@@ -31,7 +31,7 @@ Either - single delegate if applying only for yourself, lead delegate if applyin
 Delegate applications are opening soon! Keep an eye on our social media pages to get the latest news!
 
 #### Is there a social?
-Yes - 2! A drinks social on Friday 26th and our Ball on Saturday 27th. To attend these you must buy the social pack which is £27.
+Yes there is! More details to follow on this - keep an eye out on our <a href="http://warwickun.org/warmun/socials">Socials</a> page for details
 
 #### I’ll need a place to stay at the conference, what do I do?
 You will need to organise your own accomodation - we reccomend staying in a location close to the University, or where transport to the University is easily accessible. Possible locations where you might stay include Canley and Leamington Spa. The University also operates a hotel located within the campus.
