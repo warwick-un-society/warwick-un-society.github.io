@@ -13,7 +13,10 @@ Our committee selections and their topics aim to reflect this changing reality, 
 
 
 ## Committees:
-[![name](<img src="{{ site.url }}/../../img/warmunpictures/TBDPicture.jpg">)](http://warwickun.org/warmun/committees/who)
+
+
+
+<a href="http://warwickun.org/warmun/committees/who">![ecosoc](https://warwickun.org/img/warmunpictures/TBDPicture.jpg)</a>
 
 <a href="http://warwickun.org/warmun/committees/ecosoc">![ecosoc](https://user-images.githubusercontent.com/55463665/138565663-005d08a9-c6c6-4c5d-ba4c-f4da36ac7195.jpg)</a>
 
