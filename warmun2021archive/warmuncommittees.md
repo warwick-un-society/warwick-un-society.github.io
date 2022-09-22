@@ -16,7 +16,7 @@ Our committee selections and their topics aim to reflect this changing reality, 
 
 
 
-<a href="http://warwickun.org/warmun/committees/who">![ecosoc](https://warwickun.org/img/warmunpictures/TBDPicture.jpg)</a>
+<a href="http://warwickun.org/warmun/committees/who">![who](https://warwickun.org/img/warmunpictures/TBDPicture.jpg)</a>
 
 <a href="http://warwickun.org/warmun/committees/ecosoc">![ecosoc](https://warwickun.org/img/warmunpictures/TBDPicture.jpg)</a>
 
