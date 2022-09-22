@@ -2,8 +2,10 @@
 layout: default
 title: Conference Schedule
 permalink: /warmun/timetable/
-description: The timetable for WARMUN 2022 is yet to be confirmed, but will be similar to the following timetable from last year:
+description: 
 ---
+
+The timetable for WARMUN 2022 is yet to be confirmed, but will be similar to the following timetable from last year:
 
 #### Friday 26th November
 <table>
