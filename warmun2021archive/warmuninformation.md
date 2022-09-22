@@ -24,7 +24,25 @@ description:
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Message from the Secretary-General:</h4>
     
-MESSAGE FROM SG
+Dear participants,
+
+Together with my secretariat, we are honoured to welcome you to the 15th Warwick Model United Nations conference (WARMUN), held at the University of Warwick, from 25th to 27th of November, 2022.
+
+WARMUN is one of the most established conferences in the UK which consistently helps its members grow academically through professionally written study guides and competently facilitated debates and discussions. Our goal is to ensure that every delegate has an opportunity to speak, learn and develop as an individual in a safe and welcoming environment.
+
+We have chosen ‘A World Without War: Peacebuilding and Conflict Resolution’ as our conference theme due its prevalence in the modern day. By educating and guiding our participants, we aim to pave the way for future diplomats to create peace across the globe and ensure a sustainable future for everyone.
+
+Celebrating the 15th anniversary conference, I believe WARMUN will assist you in your growth and motivate you for the journey you have set for yourself to take. 
+
+We look forward to welcoming you!
+
+Sincerely yours,
+
+Rafig Niftaliyev
+
+Secretary-General
+
+WARMUN 2022
     
     <br>
     <br>
