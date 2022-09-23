@@ -4,11 +4,8 @@ title: Meet the Secretariat
 permalink: /warmun/secretariat/
 description:
 ---
-<div class="grid-x">
-  <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="https://user-images.githubusercontent.com/55463665/137590786-4a47f3a7-0c30-49fd-af3d-dafbf1c6397b.jpg" style="width:100%;">
-  </div>
-  <div class="cell small-12 medium-8" style="padding:1rem;">
+![WARMUN]([https://warwickun.org/img/warmunpictures/WARMUN2022.png](https://warwickun.org/img/headshots/warmun2022sec/50D2D261-20AE-4FC6-B39B-7EB51E1FA30C%20-%20Rafig%20Niftaliyev.png))
+
     <h4>Secretary-General: Rafig Niftaliyev</h4>
     
     Rafig is a 2nd year Philosophy, Politics and Economics student who has been a part of Model United Nations conferences since high school. He looks forward to welcoming you to WARMUN 2022 and ensuring you have a great experience.
@@ -16,11 +13,8 @@ description:
   </div>
 </div>
 
-<div class="grid-x">
-  <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="https://user-images.githubusercontent.com/55463665/137590882-6de3f0e9-dc97-4cf5-8388-3073b2e1135c.jpg" style="width:100%;">
-  </div>
-  <div class="cell small-12 medium-8" style="padding:1rem;">
+![WARMUN]([https://warwickun.org/img/warmunpictures/WARMUN2022.png](https://warwickun.org/img/headshots/warmun2022sec/IMG_20220410_155557%20-%20Robert%20Sunnucks%20-%20Robert%20Sunnucks.jpg))
+
     <h4>Deputy-Secretary-General: Rob Sunnucks</h4>
     
 Rob is a 4th year Mathematics student at the University of Warwick and can't wait to bring WARMUN 2022 to you all! He has been doing MUN for many years, having helped to run WARMUN 2021 - but this year he is seeking to have a conference that goes above and beyond. Above all things, Rob wants to have a conference that people will look back on fondly, having had a great time both in and out of committee. He is honored to be your DSG and is looking forward to seeing you all soon!
@@ -29,11 +23,8 @@ Rob is a 4th year Mathematics student at the University of Warwick and can't wai
   </div>
 </div>
 
-<div class="grid-x">
-  <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="https://user-images.githubusercontent.com/55463665/138497158-201f8bca-337e-4d80-af49-e05a6ab1b9e7.jpg" style="width:100%;">
-  </div>
-  <div class="cell small-12 medium-8" style="padding:1rem;">
+![WARMUN](https://warwickun.org/img/warmunpictures/WARMUN2022.png)
+
     <h4>Under-Secretary-General for Chairing: David Szocs</h4>
     
 David is a 2nd year law student who loves to travel. He is Hungarian but lived in Romania for most of his life. He hopes to see you at the WARMUN conference this year!
