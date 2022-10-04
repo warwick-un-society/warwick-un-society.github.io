@@ -1,17 +1,16 @@
 ---
 layout: default
-title: 'Committee TBD'
+title: 'DISEC'
 permalink: /warmun/committees/disec
 description:
 ---
-## Chairs: TBD
+## Head Chair: Ramiz
 
-Committee room: TBD
+## Co - Chairs: Alexandra and Kris
+
+Committee room: OC1.09 (friday) S0.19 (saturday & sunday)
 
 <b>Topics:</b>
   1. TBD
 
   2. TBD
-<br><br>
-<a href="about:blank"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Study guide</button></a>
-<a href="about:blank"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Upload position papers here</button></a>
