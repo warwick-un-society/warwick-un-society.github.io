@@ -5,7 +5,7 @@ permalink: /warmun/timetable/
 description: 
 ---
 
-The timetable for WARMUN 2022 is avaliable below! Note that this may be subject to change.
+The timetable for WARMUN 2022 is available below! Note that this may be subject to change.
 
 #### Friday 26th November
 <table>
