@@ -15,11 +15,11 @@ Yes - we are proud to announce that our conference will be <b> in-person </b> as
 We are committed to ensuring the safety of our delegates and staff, and as such are following Unviersity and UK Government guidlines throughout. Please refer to our <a href="http://warwickun.org/warmun/policies"> Policies and Statements </a> page for more information on how we plan to keep you safe.
 
 #### How much is the conference fee?
-£15. There is also a social pack available, for which the fee is £27.
+£29. There is also a social pack available, for which the fee is £39.
 Once we receive your delegate application, we will get in touch with you to arrange the payment of the conference fee, which will be on the Warwick Student Union website.
 
 #### What committees will there be?
-Committees are in the process of being finalised - we will be updating you soon! Keep an eye out on our <a href="http://warwickun.org/warmun/committees">Committees</a> page for details.
+Committees are now finalised - we will be updating you soon with the topics! Keep an eye out on our <a href="http://warwickun.org/warmun/committees">Committees</a> page for details.
 
 #### What are the rules of procedure of the conference?
 WarMUN 2022 will be using the HMUN rules of procedure. You can find the rules of procedure handbook <a href="https://www.yumpu.com/en/document/read/22180426/hmun-rules-of-procedure-harvard-model-united-nations">here</a>.
@@ -28,7 +28,7 @@ WarMUN 2022 will be using the HMUN rules of procedure. You can find the rules of
 Either - single delegate if applying only for yourself, lead delegate if applying for yourself and others in your university. 
 
 #### Where is the delegate application form?
-Delegate applications are opening soon! Keep an eye on our social media pages to get the latest news!
+Delegate applications are now open! Apply for our conference <a href="https://docs.google.com/forms/d/e/1FAIpQLScP0xlmX5-tKhwIp0KKiZhKGRdnBdJDc2eMRO5wLGAQwU_I3A/viewform">here</a>
 
 #### Is there a social?
 Yes there is! More details to follow on this - keep an eye out on our <a href="http://warwickun.org/warmun/socials">Socials</a> page for details
