@@ -5,14 +5,14 @@ permalink: /warmun/timetable/
 description: 
 ---
 
-The timetable for WARMUN 2022 is yet to be confirmed, but will be similar to the following timetable from last year:
+The timetable for WARMUN 2022 is avaliable below! Note that this may be subject to change.
 
 #### Friday 26th November
 <table>
   <tr><td class="times">13:00 - 15:00</td><td> Delegate registration</td></tr>
-  <tr><td>15:00 - 16:00</td><td>Opening ceremony</td></tr>
-  <tr><td>16:00 - 18:30</td><td>Committee session I</td></tr>
-  <tr><td>20:00 - 22:00</td><td>Social I</td></tr>
+  <tr><td>15:00 - 17:00</td><td>Opening ceremony</td></tr>
+  <tr><td>17:00 - 18:30</td><td>Committee session I</td></tr>
+  <tr><td>LATE</td><td>Social I</td></tr>
 </table>
 
 #### Saturday 27th November
@@ -24,7 +24,7 @@ The timetable for WARMUN 2022 is yet to be confirmed, but will be similar to the
   <tr><td>14:00-16:00</td><td>Committee session IV</td></tr>
   <tr><td>16:00-16:15</td><td>Break</td></tr>
   <tr><td>16:15-18:00</td><td>Committee session V</td></tr>
-  <tr><td>21:00-01:30</td><td>Social II</td></tr>
+  <tr><td>LATE</td><td>Social II</td></tr>
 </table>
 
 #### Sunday 28th November
@@ -36,5 +36,3 @@ The timetable for WARMUN 2022 is yet to be confirmed, but will be similar to the
   <tr><td>14:00-16:00</td><td>Committee session VIII</td></tr>
   <tr><td>16:00-17:30</td><td>Closing ceremony and awards</td></tr>
 </table>
-
-Timetable is subject to change.
