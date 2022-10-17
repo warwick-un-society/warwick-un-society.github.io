@@ -7,7 +7,7 @@ description:
 
 The timetable for WARMUN 2022 is available below! Note that this may be subject to change.
 
-#### Friday 26th November
+#### Friday 25th November
 <table>
   <tr><td class="times">13:00 - 15:00</td><td> Delegate registration</td></tr>
   <tr><td>15:00 - 17:00</td><td>Opening ceremony</td></tr>
@@ -15,7 +15,7 @@ The timetable for WARMUN 2022 is available below! Note that this may be subject 
   <tr><td>LATE</td><td>Social I</td></tr>
 </table>
 
-#### Saturday 27th November
+#### Saturday 26th November
 <table>
   <tr><td class="times">09:00-11:00</td><td>Committee session II</td></tr>
   <tr><td>11:00-11:15</td><td>Break</td></tr>
@@ -27,7 +27,7 @@ The timetable for WARMUN 2022 is available below! Note that this may be subject 
   <tr><td>LATE</td><td>Social II</td></tr>
 </table>
 
-#### Sunday 28th November
+#### Sunday 27th November
 <table>
   <tr><td class="times">09:00-11:00</td><td>Committee session VI</td></tr>
   <tr><td>11:00-11:15</td><td>Break</td></tr>
