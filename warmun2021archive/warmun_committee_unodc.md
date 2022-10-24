@@ -14,5 +14,5 @@ Committee room: S0.18
 
   Topic A: Modern Slavery and Human Trafficking Alleviation 
 
-  Topic B: Mitigating the impact of humanitarian emergencies on minority rights in Southeast Asia
+  Topic B: Developing a way to combat illicit drug trafficking in Southeast Asia
 
