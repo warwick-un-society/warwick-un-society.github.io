@@ -11,6 +11,8 @@ description:
 Committee room: S0.21
 
 <b>Topics:</b>
-  1. TBD
 
-  2. TBD
+  Topic A: Promoting Cancer Prevention and Control
+
+  Topic B: Providing Better Mental Healthcare to Everyone, Everywhere.
+
