@@ -12,7 +12,7 @@ Committee room: S0.20
 
 <b>Topics:</b>
 
-  Topic A:  Tackling humanitarian emergencies in Southeast Asia
+  Topic A: Mitigating the impact of humanitarian emergencies on minority rights in Southeast Asia
 
   Topic B: Ensuring the safety of cross-border journalists 
 
