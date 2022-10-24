@@ -11,6 +11,8 @@ description:
 Committee room: OC1.09 (friday) S0.19 (saturday & sunday)
 
 <b>Topics:</b>
-  1. TBD
 
-  2. TBD
+  Topic A: Regulation of Biowarfare
+
+  Topic B: Regulation of Legal Autonomous Weapon Systems (LAWS)
+
