@@ -11,6 +11,8 @@ description:
 Committee room: S0.20
 
 <b>Topics:</b>
-  1. TBD
 
-  2. TBD
+  Topic A:  Tackling humanitarian emergencies in Southeast Asia
+
+  Topic B: Ensuring the safety of cross-border journalists 
+
