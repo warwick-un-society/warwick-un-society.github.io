@@ -11,6 +11,8 @@ description:
 Committee room: S0.18
 
 <b>Topics:</b>
-  1. TBD
 
-  2. TBD
+  Topic A: Modern Slavery and Human Trafficking Alleviation 
+
+  Topic B: Mitigating the impact of humanitarian emergencies on minority rights in Southeast Asia
+
