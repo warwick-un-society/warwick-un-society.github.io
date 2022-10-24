@@ -11,7 +11,12 @@ description:
 Committee room: S0.11
 
 <b>Topics:</b>
-  1. TBD
 
-  2. TBD
+  Topic A: The colombian conflict:
+-Addressing the low-intensity asymmetric war between the Colombian government, the
+marxist guerrillas, far-right neo-paramilitary groups and crime syndicates.
+
+  Topic B: China-Taiwan Conflict
+- Relieving the China-Taiwan tensions to prevent an escalation of the conflict.
+
 
