@@ -11,6 +11,8 @@ description:
 Committee room: A0.23
 
 <b>Topics:</b>
-  1. TBD
 
-  2. TBD
+  Topic A: The question of mitigating misallocation of financial resources in the Indian subcontinent
+
+  Topic B: The question of prioritising funding for sustainable energy alternatives
+
