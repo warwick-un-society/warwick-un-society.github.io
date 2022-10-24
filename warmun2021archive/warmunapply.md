@@ -9,7 +9,8 @@ description:
 Charing applications are now closed, thank you to those who applied!
 
 ### Apply as a delegate:
-Fees: £ TBD Conference
+Standard Delegate Fee: £29 
+Society Member Fee: £27
 
 You can find our list of committees and topics here:
 <br><br>
