@@ -10,4 +10,5 @@ Delegates attending WarMUN can look forward towards a fun set of socials to get 
 
 Our first social will be a club night in Leamington Spa. Details on where to purchase tickets for this club will be released closer the the conference.
 
-Our second social is a formal ball. Details on the ball and purchasing of tickets can be found at https://www.warwicksu.com/venues-events/events/4260/23495/ 
+Our second social is a formal ball. Details on the ball and purchasing of tickets can be found 
+<a href="https://www.warwicksu.com/venues-events/events/4260/23495/"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">here></a>
