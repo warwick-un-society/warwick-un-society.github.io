@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Warwick Model United Nations Conference 2021
+title: Warwick Model United Nations Conference 2022
 permalink: /warmun/
 description:
 ---
