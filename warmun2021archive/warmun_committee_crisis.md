@@ -6,7 +6,7 @@ description:
 ---
 ## Crisis Director: Eli Evren Ross
 
-Committee rooms: OC1.01. OC1.04, OC1.06
+Committee rooms: OC1.01. OC1.02, OC1.04
 
 Topic: Russian Civil War
 
