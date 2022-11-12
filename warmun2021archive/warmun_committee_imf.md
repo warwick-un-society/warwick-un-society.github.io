@@ -8,7 +8,7 @@ description:
 
 ## Co - Chairs: Alizeh and Alma
 
-Committee room: A0.23
+Committee room: OC1.06
 
 <b>Topics:</b>
 
