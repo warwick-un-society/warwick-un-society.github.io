@@ -32,12 +32,12 @@ Tanaya is an enthusiast who loves knowing how the world connects through interna
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="{{ site.url }}/img/headshots/exec2022/Ruilang Qin photo 20220817 - Ruilang Qin.jpeg" style="width:50%;">
+  <img src="{{ site.url }}img\headshots\exec2023\20230914_145423 - Jamie Gatcha.jpg" style="width:50%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
-    <h4>Ruilang Qin - Treasurer</h4>
+    <h4>Jamie Gatcha - Treasurer</h4>
     
-Ruilang is a second year Economics student, who is enthusiastic in politics and economics. He first engaged in model United Nations conferences during his A-levels, and has been a keen participant ever since. 
+  Jamie is a second year MMORSE student who has a strong personality and looks forward to making both the society and WARMUN the best they can possibly be
     
   </div>
 </div>
