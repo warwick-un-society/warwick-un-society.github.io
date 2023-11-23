@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Warwick Model United Nations Conference 2022
+title: Warwick Model United Nations Conference 2024
 permalink: /warmun/
 description:
 ---
 
-## WarMUN 2022 is set for the 25th to 27th of November
+## WarMUN 2024 is set for the 19th to 21st January
 
-![WARMUN](https://warwickun.org/img/warmunpictures/WARMUN2022.png)
 
 
   
