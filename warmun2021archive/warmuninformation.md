@@ -5,9 +5,11 @@ permalink: /warmun/
 description:
 ---
 
+
 ## WarMUN 2024 is set for the 19th to 21st of January
 
-![WARMUN](https://warwickun.org/img/warmunpictures/WARMUN2022.png)
+
+
 
 
   
