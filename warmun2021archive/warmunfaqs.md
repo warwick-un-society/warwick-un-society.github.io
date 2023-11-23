@@ -12,8 +12,7 @@ Warwick University campus, 19th to 22st January. See <a href="http://warwickun.o
 Yes - we are proud to announce that our conference will be <b> in-person </b> as normal!
 
 #### How much is the conference fee?
-£29. There is also a social pack available, for which the fee is £39.
-Once we receive your delegate application, we will get in touch with you to arrange the payment of the conference fee, which will be on the Warwick Student Union website.
+Prices are yet to be fully confirmed but we estimate they will be about £25-35 and this includes all planned socials for the weekend.
 
 #### What committees will there be?
 Committees are now finalised - we will be updating you soon with the topics! Keep an eye out on our <a href="http://warwickun.org/warmun/committees">Committees</a> page for details.
