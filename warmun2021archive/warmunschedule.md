@@ -5,9 +5,9 @@ permalink: /warmun/timetable/
 description: 
 ---
 
-The timetable for WARMUN 2022 is available below! Note that this may be subject to change.
+We are still waiting on the SU to confirm our timetable for the conference however we will be updating this page as soon as the scheduel is confirmed.
 
-#### Friday 25th November
+<!-- #### Friday 25th November
 <table>
   <tr><td class="times">13:00 - 16:00</td><td> Delegate registration</td></tr>
   <tr><td>16:00 - 17:00</td><td>Opening ceremony</td></tr>
@@ -35,4 +35,5 @@ The timetable for WARMUN 2022 is available below! Note that this may be subject 
   <tr><td>12:30-14:00</td><td>Lunch break</td></tr>
   <tr><td>14:00-16:00</td><td>Committee session VIII</td></tr>
   <tr><td>16:00-17:30</td><td>Closing ceremony and awards</td></tr>
-</table>
+</table> -->
+

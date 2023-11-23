@@ -13,7 +13,7 @@ The world as we know it has been rapidly changing over the last few years. Crise
 
 
 
-<a href="http://warwickun.org/warmun/committees/who">![who](https://warwickun.org/img/warmunpictures/WHOPicture.jpg)</a>
+<!-- <a href="http://warwickun.org/warmun/committees/who">![who](https://warwickun.org/img/warmunpictures/WHOPicture.jpg)</a>
 
 <a href="http://warwickun.org/warmun/committees/icj">![icj](https://warwickun.org/img/warmunpictures/ICJPicture.jpg)</a>
 
@@ -27,4 +27,4 @@ The world as we know it has been rapidly changing over the last few years. Crise
 
 <a href="http://warwickun.org/warmun/committees/imf"> ![imf](https://warwickun.org/img/warmunpictures/IMFPicture.jpg) </a>
 
-<a href="http://warwickun.org/warmun/committees/crisis"> ![CRISIS](https://warwickun.org/img/warmunpictures/CRISISPicture.jpg) </a>
+<a href="http://warwickun.org/warmun/committees/crisis"> ![CRISIS](https://warwickun.org/img/warmunpictures/CRISISPicture.jpg) </a> -->

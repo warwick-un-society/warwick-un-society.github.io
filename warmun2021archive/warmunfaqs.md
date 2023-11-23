@@ -11,9 +11,6 @@ Warwick University campus, 19th to 22st January. See <a href="http://warwickun.o
 #### Will this be an in-person conference?
 Yes - we are proud to announce that our conference will be <b> in-person </b> as normal!
 
-#### How will the conference be affected by COVID-19?
-We are committed to ensuring the safety of our delegates and staff, and as such are following Unviersity and UK Government guidlines throughout. Please refer to our <a href="http://warwickun.org/warmun/policies"> Policies and Statements </a> page for more information on how we plan to keep you safe.
-
 #### How much is the conference fee?
 £29. There is also a social pack available, for which the fee is £39.
 Once we receive your delegate application, we will get in touch with you to arrange the payment of the conference fee, which will be on the Warwick Student Union website.
@@ -28,7 +25,7 @@ WarMUN 2022 will be using the HMUN rules of procedure. You can find the rules of
 Either - single delegate if applying only for yourself, lead delegate if applying for yourself and others in your university. 
 
 #### Where is the delegate application form?
-Delegate applications are now open! Apply for our conference <a href="https://docs.google.com/forms/d/e/1FAIpQLScP0xlmX5-tKhwIp0KKiZhKGRdnBdJDc2eMRO5wLGAQwU_I3A/viewform">here</a>
+Delegate applications are now open! Apply for our conference <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwIDBSU3qfU0U8KrEguGQfp0NGIQnfqh7T1xHoQfIkeUmJ2g/viewform?usp=sf_link">here</a>
 
 #### Is there a social?
 Yes there is! More details to follow on this - keep an eye out on our <a href="http://warwickun.org/warmun/socials">Socials</a> page for details
