@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Warwick Model United Nations Conference 2022
+title: Warwick Model United Nations Conference 2024
 permalink: /warmun/
 description:
 ---
 
-## WarMUN 2022 is set for the 25th to 27th of November
+## WarMUN 2024 is set for the 19th to 21st of January
 
 ![WARMUN](https://warwickun.org/img/warmunpictures/WARMUN2022.png)
 
@@ -19,14 +19,14 @@ description:
 
 <div class="grid-x">
   <div class="cell small-12 medium-4" style="padding:1rem;">
-  <img src="https://warwickun.org/img/headshots/exec2022/50D2D261-20AE-4FC6-B39B-7EB51E1FA30C%20-%20Rafig%20Niftaliyev.png" style="width:50%;">
+  <img src="https://warwickun.org/img/headshots/warmun2023sec/IMG_3750 - Cyrine M.jpg" style="width:50%;">
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4>Message from the Secretary-General:</h4>
     
 Dear participants,
 
-Together with my secretariat, we are honoured to welcome you to the 15th Warwick Model United Nations conference (WARMUN), held at the University of Warwick, from 25th to 27th of November, 2022.
+Together with my secretariat, we are honoured to welcome you to the 16th Warwick Model United Nations conference (WARMUN), held at the University of Warwick, from 19th to 21st of January, 2024.
 
 WARMUN is one of the most established conferences in the UK which consistently helps its members grow academically through professionally written study guides and competently facilitated debates and discussions. Our goal is to ensure that every delegate has an opportunity to speak, learn and develop as an individual in a safe and welcoming environment.
 

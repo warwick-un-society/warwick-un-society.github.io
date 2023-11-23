@@ -6,7 +6,7 @@ description:
 ---
 
 #### When/where is WARMUN 2022?
-Warwick University campus, 25nd to 27th November. See <a href="http://warwickun.org/warmun/timetable">timetable</a> for more information regarding timings.
+Warwick University campus, 19th to 22st January. See <a href="http://warwickun.org/warmun/timetable">timetable</a> for more information regarding timings.
 
 #### Will this be an in-person conference?
 Yes - we are proud to announce that our conference will be <b> in-person </b> as normal!
