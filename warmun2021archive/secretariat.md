@@ -11,7 +11,7 @@ description:
   </div>
   <div class="cell small-12 medium-8" style="padding:1rem;">
     <h4> Secretary-General: Cyrene Mokrani </h4>
-    Cyrene is a second year EPAIS student who speaks 4 languages and looks forward to welcoming you to a WARMUN that maintains the high standards of previous years
+    Cyrene is a second year EPAIS student who speaks 4 languages and looks forward to welcoming you to a WARMUN that maintains the high standards of previous years.
   </div>
 </div>
 
