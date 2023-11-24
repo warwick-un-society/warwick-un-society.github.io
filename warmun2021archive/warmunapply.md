@@ -18,4 +18,4 @@ You can find our list of committees and topics here:
 <a href="http://warwickun.org/warmun/committees"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Committees</button></a>
 
 ### Delegate applications are open now apply here:
-### <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwIDBSU3qfU0U8KrEguGQfp0NGIQnfqh7T1xHoQfIkeUmJ2g/viewform?usp=sf_link"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align:  center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Tickets</button></a>
+### <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwIDBSU3qfU0U8KrEguGQfp0NGIQnfqh7T1xHoQfIkeUmJ2g/viewform?usp=sf_link"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align:  center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Apply</button></a>

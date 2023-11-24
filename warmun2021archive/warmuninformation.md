@@ -28,19 +28,15 @@ description:
     
 Dear participants,
 
-Together with my secretariat, we are honoured to welcome you to the 16th Warwick Model United Nations conference (WARMUN), held at the University of Warwick, from 19th to 21st of January, 2024.
+I am very excited to be at the head of one of the biggest most prestigious MUN conferences in the UK. With the valuable work of our secretariat, we were able to bring to life what I believe will be the most incredible edition of WARMUN. 
 
-WARMUN is one of the most established conferences in the UK which consistently helps its members grow academically through professionally written study guides and competently facilitated debates and discussions. Our goal is to ensure that every delegate has an opportunity to speak, learn and develop as an individual in a safe and welcoming environment.
+A clear theme centred around breaking the traditional narrative, offering a voice to those that are often left unheard with the work of our incredible high-class chairs that came up with some of the most innovative MUN topics you will ever come across. 
 
-We have chosen ‘A World Without War: Peacebuilding and Conflict Resolution’ as our conference theme due its prevalence in the modern day. By educating and guiding our participants, we aim to pave the way for future diplomats to create peace across the globe and ensure a sustainable future for everyone.
-
-Celebrating the 15th anniversary conference, I believe WARMUN will assist you in your growth and motivate you for the journey you have set for yourself to take. 
-
-We look forward to welcoming you!
+A conference focused on excellence, diversity, innovation and a range of very exciting socials including a Saturday night exclusive and a scavenger hunt to discover Warwick! Looking forward to seeing you there.
 
 Sincerely yours,
 
-Rafig Niftaliyev
+Cyrene Mokrani
 
 Secretary-General
 

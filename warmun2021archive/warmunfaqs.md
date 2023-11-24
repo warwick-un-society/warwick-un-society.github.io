@@ -5,7 +5,7 @@ permalink: /warmun/faq/
 description:
 ---
 
-#### When/where is WARMUN 2022?
+#### When/where is WARMUN 2024?
 Warwick University campus, 19th to 22st January. See <a href="http://warwickun.org/warmun/timetable">timetable</a> for more information regarding timings.
 
 #### Will this be an in-person conference?
