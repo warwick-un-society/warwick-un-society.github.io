@@ -18,7 +18,7 @@ Prices are yet to be fully confirmed but we estimate they will be about £25-35 
 Committees are now finalised - we will be updating you soon with the topics! Keep an eye out on our <a href="http://warwickun.org/warmun/committees">Committees</a> page for details.
 
 #### What are the rules of procedure of the conference?
-WarMUN 2022 will be using the HMUN rules of procedure. You can find the rules of procedure handbook <a href="https://www.yumpu.com/en/document/read/22180426/hmun-rules-of-procedure-harvard-model-united-nations">here</a>.
+WarMUN 2024 will be using the HMUN rules of procedure. You can find the rules of procedure handbook <a href="https://www.yumpu.com/en/document/read/22180426/hmun-rules-of-procedure-harvard-model-united-nations">here</a>.
 
 #### Do I register as a single delegate or delegation?
 Either - single delegate if applying only for yourself, lead delegate if applying for yourself and others in your university. 
