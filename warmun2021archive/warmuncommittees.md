@@ -23,7 +23,7 @@ Thinking and diving beyond traditional narratives and alliances. As one of the m
 
 <a href="http://warwickun.org/warmun/committees/sochum"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Social, Humanitarianand cultural council (SOCHUM)</button></a>
 
-<a href="http://warwickun.org/warmun/committees/ecosoc"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Economic and Socialcouncil (ECOSOC)</button></a>
+<a href="http://warwickun.org/warmun/committees/ecosoc"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">Economic and Social Council (ECOSOC)</button></a>
 
 
 <!-- <a href="http://warwickun.org/warmun/committees/who">![who](https://warwickun.org/img/warmunpictures/WHOPicture.jpg)</a>
