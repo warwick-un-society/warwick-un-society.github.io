@@ -1,24 +1,19 @@
 ---
 layout: default
-title: UNSC
+title: 'UNSC'
 permalink: /warmun/committees/unsc
 description:
 ---
-## Head Chair: Morris
+## Head Chair: Calvin lyer
 
-## Co - Chair: Lee
+## Co - Chairs: Niamh Little
 
-Committee room: S0.11
-
+Committee room: S0.21 (friday, saturday & sunday)
+s
 <b>Topics:</b>
 
-  Topic A: The colombian conflict:
-- Addressing the low-intensity asymmetric war between the Colombian government, the
-marxist guerrillas, far-right neo-paramilitary groups and crime syndicates.
+  Topic A: Addressing the prevention of the Militarisation of the Arctic
+
+  Topic B: Addressing the security concerns in the Republic Of The Union Of Myanmar
 
 
-Topic B: China-Taiwan Conflict
-- Relieving the China-Taiwan tensions to prevent an escalation of the conflict.
-
-
-<a href="https://warwickun.org/warmun2021archive/WARMUN_2022_Study_Guide_UNSC.pdf"><button style="background-color:#0C2745;border: none; border-radius: 8px; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">UNSC Study Guide</button></a>
