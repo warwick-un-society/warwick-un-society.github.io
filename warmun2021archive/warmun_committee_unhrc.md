@@ -6,7 +6,7 @@ description:
 ---
 ## Head Chair: Charlotte Mawer
 
-## Co - Chairs: Pham The Ngoc Nguyen, Piyaa Manghnani
+## Co-Chairs: Pham the ngoc Nguyen, Piyaa Manghnani
 
 Committee room: S0.19 (friday, saturday & sunday)
 

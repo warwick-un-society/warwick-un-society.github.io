@@ -9,7 +9,8 @@ description:
 ## Co - Chairs: Niamh Little
 
 Committee room: S0.21 (friday, saturday & sunday)
-s
+
+
 <b>Topics:</b>
 
   Topic A: Addressing the prevention of the Militarisation of the Arctic
