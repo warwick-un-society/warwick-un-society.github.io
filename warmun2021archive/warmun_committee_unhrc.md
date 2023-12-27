@@ -12,8 +12,8 @@ Committee room: S0.19 (friday, saturday & sunday)
 
 <b>Topics:</b>
 
-  Topic A: Regulation of Biowarfare
+  Topic A: Adressing the UN's responsibility to protect contries against genocide
 
-  Topic B: Regulation of Legal Autonomous Weapon Systems (LAWS)
+  Topic B: AI Human Right Infringements and the negative consequences of further technological developments
 
 
